@@ -2,8 +2,6 @@ import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-
-#checking if the branching works
 offense_stat_list = ['passing', 'rushing', 'receiving', 'scoring', 'downs']
 defense_stat_list = ['passing', 'rushing', 'receiving', 'scoring', 'tackles', 'downs', 'fumbles', 'interceptions']
 st_stat_list = ['field-goals', 'scoring', 'kickoffs', 'kickoff-returns', 'punting', 'punt-returns']
