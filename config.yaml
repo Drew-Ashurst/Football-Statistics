@@ -1,0 +1,43 @@
+---
+ team_outputs: 'Output Files\team_stats'
+ individual_outputs: 'Output Files\individual_stats'
+ roster: 'Output Files\rosters.csv'
+ game_outcomes: 'Output Files\game_outcomes.csv'
+
+ offense_stat_list:
+   - passing
+   - rushing
+   - receiving
+   - scoring
+   - downs
+
+ defense_stat_list:
+   - passing
+   - rushing
+   - receiving
+   - scoring
+   - tackles
+   - downs
+   - fumbles
+   - interceptions
+ 
+ special_teams_stat_list:
+   - field-goals
+   - scoring
+   - kickoffs
+   - kickoff-returns
+   - punting
+   - punt-returns
+
+ indv_urls:
+    passing: 'https://www.nfl.com/stats/player-stats/category/passing/2024/reg/all/passingyards/desc'
+    rushing: 'https://www.nfl.com/stats/player-stats/category/rushing/2024/reg/all/rushingyards/desc'
+    receiving: 'https://www.nfl.com/stats/player-stats/category/receiving/2024/reg/all/receivingreceptions/desc'
+    fumbles: 'https://www.nfl.com/stats/player-stats/category/fumbles/2024/reg/all/defensiveforcedfumble/desc'
+    tackles: 'https://www.nfl.com/stats/player-stats/category/tackles/2024/reg/all/defensivecombinetackles/desc'
+    interceptions: 'https://www.nfl.com/stats/player-stats/category/interceptions/2024/reg/all/defensiveinterceptions/desc'
+    field_goals: 'https://www.nfl.com/stats/player-stats/category/field-goals/2024/reg/all/kickingfgmade/desc'
+    kickoffs: 'https://www.nfl.com/stats/player-stats/category/kickoffs/2024/reg/all/kickofftotal/desc'
+    kickoff_returns: 'https://www.nfl.com/stats/player-stats/category/kickoff-returns/2024/reg/all/kickreturnsaverageyards/desc'
+    punting: 'https://www.nfl.com/stats/player-stats/category/punts/2024/reg/all/puntingaverageyards/desc'
+    punt_returns: 'https://www.nfl.com/stats/player-stats/category/punt-returns/2024/reg/all/puntreturnsaverageyards/desc'
