@@ -1,48 +1,48 @@
 Player,Team,KO,Yds,Ret Yds,TB,TB %,Ret,Ret Avg,OSK,OSK Rec,OOB,TD
-Justin Tucker,Baltimore Ravens,64,4146,426,48,75.0,16,26.6,0,0,0,0
-Tyler Bass,Buffalo Bills,61,3939,349,49,80.3,11,31.7,0,0,1,1
-Evan McPherson,Cincinnati Bengals,57,3571,256,45,79.0,10,25.6,2,0,0,0
+Justin Tucker,Baltimore Ravens,68,4406,426,52,76.5,16,26.6,0,0,0,0
+Tyler Bass,Buffalo Bills,66,4264,349,54,81.8,11,31.7,0,0,1,1
+Jake Bates,Detroit Lions,66,4317,460,52,78.8,14,32.9,0,0,0,0
+Evan McPherson,Cincinnati Bengals,63,3964,288,50,79.4,11,26.2,2,0,0,0
+Chris Boswell,Pittsburgh Steelers,62,3981,681,37,59.7,25,27.2,0,0,0,0
+Ka'imi Fairbairn,Houston Texans,61,3831,609,35,57.4,24,25.4,1,0,2,0
+Blake Grupe,New Orleans Saints,58,3699,1041,16,27.6,42,24.8,0,0,0,0
+Wil Lutz,Denver Broncos,54,3410,390,36,66.7,16,24.4,1,0,2,0
 Austin Seibert,Washington Commanders,54,3404,1015,14,25.9,40,25.4,0,0,0,0
-Jake Bates,Detroit Lions,52,3410,402,40,76.9,12,33.5,0,0,0,0
-Blake Grupe,New Orleans Saints,52,3314,1004,12,23.1,40,25.1,0,0,0,0
-Chris Boswell,Pittsburgh Steelers,50,3222,500,32,64.0,18,27.8,0,0,0,0
+Cameron Dicker,Los Angeles Chargers,53,3410,456,36,67.9,16,28.5,0,0,1,0
+Braden Mann,Philadelphia Eagles,53,3457,313,42,79.2,11,28.4,0,0,0,0
+Jason Myers,Seattle Seahawks,51,3274,555,27,52.9,24,23.1,0,0,0,0
+Brandon Aubrey,Dallas Cowboys,49,2920,637,19,38.8,26,24.5,3,1,1,0
 Harrison Butker,Kansas City Chiefs,49,3160,270,39,79.6,9,30.0,0,0,1,0
-Ka'imi Fairbairn,Houston Texans,48,2994,553,24,50.0,22,25.1,1,0,2,0
-Wil Lutz,Denver Broncos,47,2955,390,29,61.7,16,24.4,1,0,2,0
-Jason Myers,Seattle Seahawks,46,2964,504,25,54.4,21,24.0,0,0,0,0
-Cam Little,Jacksonville Jaguars,45,2865,149,39,86.7,5,29.8,1,0,0,0
+Matt Gay,Indianapolis Colts,49,3139,203,41,83.7,7,29.0,1,0,0,0
+Cam Little,Jacksonville Jaguars,47,2980,149,41,87.2,5,29.8,1,0,0,0
+Jason Sanders,Miami Dolphins,47,2980,284,34,72.3,12,23.7,1,0,0,0
+Daniel Carlson,Las Vegas Raiders,46,2715,431,24,52.2,18,23.9,4,0,1,0
+Dustin Hopkins,Cleveland Browns,46,2878,604,23,50.0,22,27.4,1,0,0,1
+Cairo Santos,Chicago Bears,46,2984,579,26,56.5,20,29.0,0,0,0,0
 Will Reichard,Minnesota Vikings,45,2916,120,40,88.9,5,24.0,0,0,0,0
-Brandon Aubrey,Dallas Cowboys,43,2543,524,18,41.9,21,25.0,3,1,1,0
-Matt Gay,Indianapolis Colts,42,2682,179,35,83.3,6,29.8,1,0,0,0
-Daniel Carlson,Las Vegas Raiders,41,2427,379,22,53.7,16,23.7,4,0,0,0
-Cameron Dicker,Los Angeles Chargers,41,2634,304,29,70.7,11,27.6,0,0,1,0
-Cairo Santos,Chicago Bears,41,2658,528,23,56.1,18,29.3,0,0,0,0
-Braden Mann,Philadelphia Eagles,40,2600,171,33,82.5,7,24.4,0,0,0,0
+Joey Slye,New England Patriots,45,2881,311,32,71.1,12,25.9,0,0,1,0
+Ethan Evans,Los Angeles Rams,43,2798,89,40,93.0,3,29.7,0,0,0,0
+Bradley Pinion,Atlanta Falcons,41,2650,300,29,70.7,12,25.0,0,0,0,0
+Nick Folk,Tennessee Titans,40,2526,341,30,75.0,9,37.9,1,0,0,0
 Eddy Pineiro,Carolina Panthers,39,2422,512,16,41.0,21,24.4,0,0,2,0
-Joey Slye,New England Patriots,39,2498,229,29,74.4,9,25.4,0,0,1,0
-Dustin Hopkins,Cleveland Browns,38,2383,502,19,50.0,18,27.9,1,0,0,1
-Bradley Pinion,Atlanta Falcons,38,2455,300,26,68.4,12,25.0,0,0,0,0
+Jake Moody,San Francisco 49ers,37,2406,161,31,83.8,6,26.8,0,0,0,0
 Trenton Gill,Tampa Bay Buccaneers,35,2260,179,29,82.9,6,29.8,0,0,0,0
-Ethan Evans,Los Angeles Rams,34,2211,27,33,97.1,1,27.0,0,0,0,0
-Jason Sanders,Miami Dolphins,34,2151,213,24,70.6,9,23.7,1,0,0,0
-Jake Moody,San Francisco 49ers,33,2146,146,28,84.8,5,29.2,0,0,0,0
 Brayden Narveson,Green Bay Packers,33,2116,393,17,51.5,16,24.6,0,0,0,0
 Greg Zuerlein,New York Jets,33,2119,111,28,84.8,5,22.2,0,0,0,0
-Nick Folk,Tennessee Titans,32,2061,250,25,78.1,7,35.7,0,0,0,0
+Chad Ryland,Arizona Cardinals,29,1891,127,25,86.2,4,31.8,0,0,0,0
 Greg Joseph,Detroit Lions,27,1758,116,23,85.2,4,29.0,0,0,0,0
 Jake Camarda,Tampa Bay Buccaneers,24,1549,154,18,75.0,6,25.7,0,0,0,0
-Chad Ryland,Arizona Cardinals,24,1566,127,20,83.3,4,31.8,0,0,0,0
 Matt Prater,Arizona Cardinals,20,1266,94,17,85.0,2,47.0,0,0,1,0
+Brandon McManus,Green Bay Packers,18,1126,214,10,55.6,7,30.6,1,0,1,0
+Anders Carlson,San Francisco 49ers,16,1009,288,4,25.0,11,26.2,0,0,1,0
 Younghoe Koo,Atlanta Falcons,15,969,302,5,33.3,10,30.2,0,0,0,0
-Brandon McManus,Green Bay Packers,14,864,159,8,57.1,5,31.8,1,0,1,0
-Anders Carlson,San Francisco 49ers,10,621,174,2,20.0,7,24.9,0,0,1,0
+Spencer Shrader,Indianapolis Colts,12,780,23,11,91.7,1,23.0,0,0,0,0
+Zane Gonzalez,Washington Commanders,10,568,168,2,20.0,7,24.0,1,0,0,0
+John Parker Romo,Minnesota Vikings,10,647,47,8,80.0,2,23.5,0,0,0,0
 Graham Gano,New York Giants,8,515,86,5,62.5,3,28.7,0,0,0,0
 Matthew Wright,San Francisco 49ers,8,496,266,1,12.5,7,38.0,0,0,0,1
-Zane Gonzalez,Washington Commanders,6,369,117,1,16.7,5,23.4,0,0,0,0
-Joshua Karty,Los Angeles Rams,6,391,32,5,83.3,1,32.0,0,0,0,0
+Joshua Karty,Los Angeles Rams,7,399,32,5,71.4,1,32.0,1,0,0,0
 Jude McAtamney,New York Giants,5,325,35,4,80.0,1,35.0,0,0,0,0
-John Parker Romo,Minnesota Vikings,5,324,24,4,80.0,1,24.0,0,0,0,0
-Spencer Shrader,Indianapolis Colts,5,325,0,5,100.0,0,0.0,0,0,0,0
 Riley Patterson,New York Jets,4,255,106,0,0.0,4,26.5,0,0,0,0
 Cade York,Washington Commanders,4,198,22,1,25.0,1,22.0,1,0,1,0
 Jamie Gillan,New York Giants,3,170,0,2,66.7,0,0.0,0,0,1,0

@@ -1,75 +1,77 @@
 Player,Team,Pass Yds,Yds/Att,Att,Cmp,Cmp %,TD,INT,Rate,1st,1st%,20+,40+,Lng,Sck,SckY
-Joe Burrow,Cincinnati Bengals,2672,7.5,358,246,68.7,24,4,108.1,141,39.4,26,9,70,23,124
-Lamar Jackson,Baltimore Ravens,2669,9.3,288,199,69.1,24,2,123.2,128,44.4,35,8,84,13,94
-Kirk Cousins,Atlanta Falcons,2634,7.9,333,227,68.2,17,8,98.9,121,36.3,33,5,52,20,144
-Geno Smith,Seattle Seahawks,2560,7.5,342,233,68.1,11,10,88.6,127,37.1,28,3,71,28,181
+Joe Burrow,Cincinnati Bengals,3028,7.4,408,274,67.2,27,4,106.9,155,38.0,33,10,70,26,138
+Lamar Jackson,Atlanta Falcons,2876,9.0,321,215,67.0,25,3,117.3,137,42.7,38,9,84,15,96
+Kirk Cousins,Atlanta Falcons,2807,7.8,360,245,68.1,17,9,96.6,129,35.8,34,5,52,23,165
+Geno Smith,Seattle Seahawks,2781,7.4,374,258,69.0,11,11,88.1,137,36.6,30,3,71,32,207
+C.J. Stroud,Houston Texans,2628,7.2,363,230,63.4,12,7,88.0,133,36.6,30,4,67,35,276
+Brock Purdy,San Francisco 49ers,2613,8.5,306,202,66.0,13,8,95.9,121,39.5,36,9,76,20,95
+Matthew Stafford,Los Angeles Rams,2557,7.3,349,232,66.5,13,7,92.1,118,33.8,32,4,69,21,151
+Josh Allen,Buffalo Bills,2543,7.5,339,217,64.0,18,5,98.2,117,34.5,38,7,63,13,61
 Baker Mayfield,Tampa Bay Buccaneers,2505,7.3,344,243,70.6,24,9,103.6,131,38.1,27,2,55,24,143
-Brock Purdy,San Francisco 49ers,2454,8.8,278,181,65.1,12,7,97.0,111,39.9,35,9,76,18,82
-Josh Allen,Buffalo Bills,2281,7.6,299,190,63.6,17,4,100.2,104,34.8,33,7,63,13,61
-Patrick Mahomes,Kansas City Chiefs,2208,7.1,311,216,69.4,12,9,90.4,118,37.9,25,3,54,20,124
-Jayden Daniels,Washington Commanders,2147,8.2,262,180,68.7,9,2,101.8,99,37.8,31,7,66,20,111
-Sam Darnold,Minnesota Vikings,2141,8.2,261,179,68.6,17,10,99.2,102,39.1,33,4,97,26,176
-C.J. Stroud,Houston Texans,2139,7.2,296,188,63.5,11,4,91.9,108,36.5,24,4,67,30,229
-Aaron Rodgers,New York Jets,2107,6.7,316,197,62.3,15,7,88.4,104,32.9,31,2,57,20,154
+Jared Goff,Detroit Lions,2492,9.2,270,197,73.0,20,9,112.2,119,44.1,39,8,70,18,147
+Aaron Rodgers,New York Jets,2442,6.4,380,241,63.4,17,7,89.0,121,31.8,34,2,57,26,199
+Patrick Mahomes,Kansas City Chiefs,2404,7.0,344,239,69.5,15,11,90.3,133,38.7,26,3,54,22,139
+Sam Darnold,Minnesota Vikings,2387,8.2,293,199,67.9,19,10,100.0,114,38.9,37,5,97,28,186
+Jayden Daniels,Washington Commanders,2338,8.0,294,202,68.7,10,3,99.6,109,37.1,33,7,66,23,131
+Bo Nix,Denver Broncos,2275,6.4,357,234,65.6,14,6,89.3,102,28.6,35,2,49,18,147
+Jalen Hurts,Philadelphia Eagles,2197,8.4,263,182,69.2,12,5,101.8,99,37.6,33,10,67,28,208
+Justin Herbert,Los Angeles Chargers,2186,7.9,277,176,63.5,13,1,102.0,97,35.0,35,4,66,23,132
+Jordan Love,Green Bay Packers,2081,8.1,257,160,62.3,16,11,90.6,91,35.4,30,9,70,8,63
 Daniel Jones,New York Giants,2070,6.1,341,216,63.3,8,7,79.4,106,31.1,19,2,43,29,172
+Kyler Murray,Arizona Cardinals,2058,7.5,276,191,69.2,12,3,100.8,99,35.9,23,2,60,15,88
+Caleb Williams,Chicago Bears,2016,6.2,325,201,61.8,9,5,82.3,97,29.8,20,4,47,41,278
 Trevor Lawrence,Jacksonville Jaguars,2004,7.3,274,168,61.3,11,6,87.9,96,35.0,31,4,85,18,140
 Dak Prescott,Dallas Cowboys,1978,6.9,286,185,64.7,11,8,86.0,87,30.4,23,3,65,21,112
-Matthew Stafford,Los Angeles Rams,1969,7.1,276,182,65.9,9,6,88.6,89,32.2,25,3,63,17,115
-Bo Nix,Denver Broncos,1968,6.1,324,206,63.6,10,6,83.0,88,27.2,31,1,49,17,135
-Jared Goff,Detroit Lions,1840,8.7,211,158,74.9,14,4,115.0,88,41.7,25,6,70,18,147
-Jordan Love,Green Bay Packers,1820,7.6,240,147,61.2,15,10,88.2,81,33.8,25,7,70,7,62
-Kyler Murray,Arizona Cardinals,1792,7.1,252,169,67.1,11,3,97.2,84,33.3,21,1,60,14,81
-Caleb Williams,Chicago Bears,1785,6.1,294,178,60.5,9,5,81.0,85,28.9,18,4,47,38,259
-Jalen Hurts,Philadelphia Eagles,1774,8.2,215,150,69.8,10,4,102.4,81,37.7,26,8,67,21,147
-Justin Herbert,Los Angeles Chargers,1725,7.7,223,145,65.0,10,1,101.6,75,33.6,25,4,66,21,115
-Gardner Minshew,Las Vegas Raiders,1501,6.8,221,148,67.0,6,8,80.2,78,35.3,18,2,57,23,138
-Derek Carr,New Orleans Saints,1494,8.1,184,124,67.4,11,4,102.9,62,33.7,18,6,70,6,32
+Gardner Minshew,Las Vegas Raiders,1783,6.8,264,178,67.4,8,9,82.3,95,36.0,21,2,57,26,152
+Derek Carr,New Orleans Saints,1742,8.3,211,145,68.7,13,4,106.4,72,34.1,21,7,71,7,39
+Tua Tagovailoa,Miami Dolphins,1443,7.5,192,141,73.4,9,4,101.5,77,40.1,15,3,80,11,92
+Jameis Winston,Cleveland Browns,1266,7.4,172,107,62.2,7,4,88.5,60,34.9,15,1,89,13,55
+Drake Maye,New England Patriots,1236,6.5,189,126,66.7,9,6,87.5,63,33.3,13,1,40,17,120
+Anthony Richardson,Indianapolis Colts,1230,7.6,163,79,48.5,5,7,66.2,47,28.8,18,6,69,11,96
+Russell Wilson,Pittsburgh Steelers,1212,8.1,149,94,63.1,7,2,98.6,52,34.9,21,3,46,16,92
+Will Levis,Tennessee Titans,1169,6.5,179,118,65.9,8,8,80.5,52,29.0,14,3,98,27,153
 Joe Flacco,Indianapolis Colts,1167,6.9,170,113,66.5,9,5,91.5,60,35.3,15,2,65,13,101
 Deshaun Watson,Cleveland Browns,1148,5.3,216,137,63.4,5,3,79.0,49,22.7,11,0,35,33,191
-Justin Fields,Pittsburgh Steelers,1106,6.9,160,106,66.2,5,1,93.9,45,28.1,15,2,55,16,124
+Justin Fields,Pittsburgh Steelers,1106,6.9,161,106,65.8,5,1,93.3,45,28.0,15,2,55,16,124
 Andy Dalton,Carolina Panthers,989,6.2,160,106,66.2,7,6,82.0,50,31.2,13,0,39,7,37
-Anthony Richardson,Indianapolis Colts,958,7.2,133,59,44.4,4,7,57.2,34,25.6,14,6,69,9,65
-Drake Maye,New England Patriots,954,6.4,150,97,64.7,7,5,84.1,47,31.3,11,1,40,14,95
-Tua Tagovailoa,Miami Dolphins,948,7.4,128,93,72.7,5,3,96.7,48,37.5,10,2,80,6,39
 Jacoby Brissett,New England Patriots,828,5.2,159,94,59.1,2,1,74.6,41,25.8,7,1,50,18,119
 Bryce Young,Carolina Panthers,820,5.4,153,92,60.1,4,6,66.9,38,24.8,11,1,46,11,65
 Mason Rudolph,Tennessee Titans,806,6.3,128,76,59.4,4,4,75.2,43,33.6,10,1,47,6,38
-Russell Wilson,Pittsburgh Steelers,737,8.7,85,50,58.8,6,1,105.9,33,38.8,13,2,44,8,46
-Will Levis,Tennessee Titans,699,5.6,125,83,66.4,5,7,70.7,34,27.2,9,1,40,15,101
-Jameis Winston,Cleveland Browns,652,6.6,99,59,59.6,5,3,83.4,35,35.4,7,0,38,9,37
 Spencer Rattler,New Orleans Saints,571,5.8,99,59,59.6,1,2,70.7,23,23.2,7,1,41,14,73
+Cooper Rush,Dallas Cowboys,566,4.8,117,67,57.3,2,2,68.5,31,26.5,4,1,64,6,44
 Aidan O'Connell,Las Vegas Raiders,455,5.6,82,52,63.4,2,2,76.0,25,30.5,2,0,30,3,28
 Malik Willis,Green Bay Packers,380,9.7,39,29,74.4,3,0,130.3,15,38.5,7,1,51,5,16
 Tyler Huntley,Baltimore Ravens,377,5.7,66,39,59.1,1,1,73.9,19,28.8,3,0,25,7,45
+Mac Jones,Jacksonville Jaguars,277,4.6,60,37,61.7,0,3,51.9,13,21.7,4,0,24,6,60
 Marcus Mariota,Washington Commanders,203,7.8,26,19,73.1,2,0,121.2,12,46.2,2,0,25,1,4
 Skylar Thompson,Miami Dolphins,187,5.7,33,21,63.6,0,0,78.7,8,24.2,1,0,22,6,44
 Jake Haener,New Orleans Saints,177,6.1,29,14,48.3,1,0,79.2,8,27.6,2,0,36,2,16
-Cooper Rush,Dallas Cowboys,167,4.3,39,22,56.4,1,1,64.8,11,28.2,1,0,22,0,0
-Tim Boyle,Miami Dolphins,153,5.9,26,15,57.7,0,0,74.7,7,26.9,1,0,30,1,9
-Mac Jones,Jacksonville Jaguars,139,4.5,31,20,64.5,0,2,47.6,6,19.4,1,0,23,5,51
-Dorian Thompson-Robinson,Cleveland Browns,82,3.4,24,11,45.8,0,2,19.8,3,12.5,0,0,16,1,3
+Tim Boyle,New York Giants,153,5.9,26,15,57.7,0,0,74.7,7,26.9,1,0,30,1,9
+Dorian Thompson-Robinson,Cleveland Browns,82,3.3,25,11,44.0,0,2,19.1,3,12.0,0,0,16,1,3
 Davis Mills,Houston Texans,79,6.1,13,7,53.8,0,0,72.3,4,30.8,1,0,25,1,7
 Desmond Ridder,Arizona Cardinals,74,4.6,16,11,68.8,1,0,99.5,4,25.0,1,0,22,4,34
+Hendon Hooker,Detroit Lions,62,6.9,9,6,66.7,0,0,86.3,3,33.3,1,0,21,1,9
+Michael Penix Jr.,Atlanta Falcons,38,7.6,5,3,60.0,0,0,83.8,3,60.0,1,0,20,1,0
 Tyrod Taylor,New York Jets,36,4.5,8,6,75.0,1,0,122.9,3,37.5,0,0,9,0,0
 Jaxon Smith-Njigba,Seattle Seahawks,35,35.0,1,1,100.0,0,0,118.8,1,100.0,1,0,35,0,0
 Courtland Sutton,Denver Broncos,30,15.0,2,2,100.0,1,0,158.3,2,100.0,1,0,28,0,0
-Hendon Hooker,Detroit Lions,25,5.0,5,3,60.0,0,0,72.9,1,20.0,0,0,19,1,9
 Taylor Heinicke,Los Angeles Chargers,24,12.0,2,2,100.0,0,0,116.7,1,50.0,0,0,18,3,28
 Adonai Mitchell,Indianapolis Colts,24,24.0,1,1,100.0,0,0,118.8,1,100.0,1,0,24,0,0
 Nick Mullens,Minnesota Vikings,24,24.0,1,1,100.0,0,0,118.8,1,100.0,1,0,24,0,0
 Justin Jefferson,Minnesota Vikings,22,22.0,1,1,100.0,0,0,118.8,1,100.0,1,0,22,0,0
+Taysom Hill,New Orleans Saints,21,5.2,4,2,50.0,0,1,26.0,1,25.0,0,0,18,0,0
+Trey Lance,Dallas Cowboys,21,3.5,6,4,66.7,0,1,32.6,1,16.7,0,0,10,2,7
 Kyle Allen,Pittsburgh Steelers,19,19.0,1,1,100.0,0,0,118.8,1,100.0,0,0,19,0,0
 Jack Fox,Detroit Lions,17,17.0,1,1,100.0,0,0,118.8,1,100.0,0,0,17,0,0
-Michael Penix Jr.,Atlanta Falcons,14,14.0,1,1,100.0,0,0,118.8,1,100.0,0,0,14,0,0
 Stefon Diggs,Houston Texans,13,13.0,1,1,100.0,0,0,118.8,1,100.0,0,0,13,0,0
 Amon-Ra St. Brown,Detroit Lions,7,7.0,1,1,100.0,1,0,135.4,1,100.0,0,0,7,0,0
 Drew Lock,New York Giants,6,0.8,8,3,37.5,0,0,45.8,0,0.0,0,0,5,1,6
+Kenny Pickett,Philadelphia Eagles,5,1.7,3,1,33.3,0,0,42.4,0,0.0,0,0,5,1,8
 Mitchell Trubisky,Buffalo Bills,5,1.7,3,2,66.7,0,0,70.1,0,0.0,0,0,3,0,0
+Bryan Anger,Dallas Cowboys,4,2.0,2,1,50.0,0,0,56.2,0,0.0,0,0,4,0,0
 Riley Dixon,Denver Broncos,3,3.0,1,1,100.0,0,0,79.2,0,0.0,0,0,3,0,0
-Taysom Hill,New Orleans Saints,3,1.5,2,1,50.0,0,0,56.2,0,0.0,0,0,3,0,0
 David Montgomery,Detroit Lions,3,3.0,1,1,100.0,1,0,118.8,1,100.0,0,0,3,0,0
 Josh Johnson,Baltimore Ravens,1,1.0,1,1,100.0,0,0,79.2,0,0.0,0,0,1,0,0
-Bryan Anger,Dallas Cowboys,0,0.0,1,0,0.0,0,0,39.6,0,0.0,0,0,0,0,0
 Tutu Atwell,Los Angeles Rams,0,0.0,1,0,0.0,0,0,39.6,0,0.0,0,0,0,0,0
 Ty Chandler,Minnesota Vikings,0,0.0,0,0,0.0,0,0,0.0,0,0.0,0,0,0,1,1
 Johnny Hekker,Carolina Panthers,0,0.0,2,0,0.0,0,0,39.6,0,0.0,0,0,0,0,0
@@ -77,6 +79,5 @@ Miles Killebrew,Pittsburgh Steelers,0,0.0,1,0,0.0,0,0,39.6,0,0.0,0,0,0,0,0
 Joe Mixon,Houston Texans,0,0.0,1,0,0.0,0,0,39.6,0,0.0,0,0,0,0,0
 Darnell Mooney,Atlanta Falcons,0,0.0,1,0,0.0,0,0,39.6,0,0.0,0,0,0,0,0
 Malik Nabers,New York Giants,0,0.0,1,0,0.0,0,0,39.6,0,0.0,0,0,0,0,0
-Kenny Pickett,Philadelphia Eagles,0,0.0,1,0,0.0,0,0,39.6,0,0.0,0,0,0,1,8
 Bradley Pinion,Atlanta Falcons,0,0.0,0,0,0.0,0,0,0.0,0,0.0,0,0,0,0,0
 Deebo Samuel Sr.,San Francisco 49ers,0,0.0,0,0,0.0,0,0,0.0,0,0.0,0,0,0,1,4

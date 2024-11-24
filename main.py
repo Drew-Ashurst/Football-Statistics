@@ -1,6 +1,10 @@
-import pandas as pd
-import yaml
-import get_individual_stats
-import get_rosters
-import get_team_stats
-from config import config
+import data
+
+CURRENT_WEEK = 10
+
+d = data.Data()
+
+# d.get_rosters()
+# d.get_indv_data()
+# d.get_team_stats()
+d.get_game_outcomes(10)
