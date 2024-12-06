@@ -1,33 +1,33 @@
 Team,INT,INT TD,INT Yds,Lng
-Vikings  Vikings,16,2,123,63T
-Lions  Lions,14,1,116,47
-Texans  Texans,14,0,101,45
-Bills  Bills,13,2,119,31
-Saints  Saints,12,0,166,47
-Steelers  Steelers,12,0,144,49
-49ers  49ers,11,1,167,45T
-Packers  Packers,10,1,116,35T
-Rams  Rams,10,2,134,103
-Bears  Bears,9,1,87,43T
-Chargers  Chargers,9,0,83,29
-Broncos  Broncos,8,1,201,100T
-Colts  Colts,8,0,49,20
-Falcons  Falcons,7,1,93,47T
-Ravens  Ravens,7,0,1,1
-Eagles  Eagles,7,0,1,1
-Seahawks  Seahawks,7,0,72,33
-Bengals  Bengals,6,0,117,49
-Cowboys  Cowboys,6,0,30,21
-Chiefs  Chiefs,6,0,52,29
-Dolphins  Dolphins,6,0,14,7
-Panthers  Panthers,5,0,38,33
-Jaguars  Jaguars,5,0,38,22
-Raiders  Raiders,5,1,92,35T
-Cardinals  Cardinals,5,0,10,10
-Buccaneers  Buccaneers,5,0,28,17
-Patriots  Patriots,4,0,37,35
-Commanders  Commanders,4,1,124,67T
-Titans  Titans,3,0,49,30
-Browns  Browns,2,0,0,0
-Jets  Jets,2,0,0,0
-Giants  Giants,1,0,1,1
+Minnesota Vikings,16,2,123,63T
+Houston Texans,15,1,166,65T
+Detroit Lions,14,1,116,47
+Buffalo Bills,13,2,119,31
+New Orleans Saints,12,0,166,47
+Pittsburgh Steelers,12,0,144,49
+Green Bay Packers,11,1,164,48T
+San Francisco 49ers,11,1,167,45T
+Los Angeles Rams,10,2,134,103
+Chicago Bears,9,1,87,43T
+Dallas Cowboys,9,1,76,23T
+Denver Broncos,9,1,238,100T
+Los Angeles Chargers,9,0,83,29
+Indianapolis Colts,8,0,49,20
+Seattle Seahawks,8,1,141,69T
+Atlanta Falcons,7,1,93,47T
+Baltimore Ravens,7,0,1,1
+Miami Dolphins,7,0,14,7
+Philadelphia Eagles,7,0,1,1
+Cincinnati Bengals,6,0,117,49
+Kansas City Chiefs,6,0,52,29
+Arizona Cardinals,6,0,10,10
+Carolina Panthers,5,0,38,33
+Tennessee Titans,5,0,57,30
+Jacksonville Jaguars,5,0,38,22
+Las Vegas Raiders,5,1,92,35T
+Tampa Bay Buccaneers,5,0,28,17
+New England Patriots,4,0,37,35
+Washington Commanders,4,1,124,67T
+Cleveland Browns,2,0,0,0
+New York Jets,2,0,0,0
+New York Giants,1,0,1,1

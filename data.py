@@ -16,8 +16,8 @@ class Data:
         chrome_options.add_argument("disable-gpu")
         chrome_options.add_experimental_option("prefs", {"profile.default_content_setting_values.cookies": 2})
         
-        with open('teams.txt', 'r') as f:
-            self.teams = [i.strip() for i in f.readlines()]
+        self.teams = ["Arizona Cardinals", "Atlanta Falcons", "Baltimore Ravens", "Buffalo Bills","Carolina Panthers", "Chicago Bears", "Cincinnati Bengals", "Cleveland Browns","Dallas Cowboys", "Denver Broncos", "Detroit Lions", "Green Bay Packers",    "Houston Texans", "Indianapolis Colts", "Jacksonville Jaguars", "Kansas City Chiefs",    "Las Vegas Raiders", "Los Angeles Chargers", "Los Angeles Rams", "Miami Dolphins",    "Minnesota Vikings", "New England Patriots", "New Orleans Saints", "New York Giants",    "New York Jets", "Philadelphia Eagles", "Pittsburgh Steelers", "San Francisco 49ers",    "Seattle Seahawks", "Tampa Bay Buccaneers", "Tennessee Titans", "Washington Commanders"]
+        print(len(self.teams))
         
         self.driver = webdriver.Chrome(chrome_options)
         self.get_rosters()
@@ -69,6 +69,13 @@ class Data:
 
         self.rosters = pd.read_csv(config['roster'])
     
+    def fix_team_names(self, name):
+        for i in self.teams:
+            print(name.split()[0])
+            if name.split()[0] in i:
+                return i
+        
+        
     def get_team_stats(self):
         offensive_urls = {i: f'https://www.nfl.com/stats/team-stats/offense/{i}/2024/reg/all' for i in config['offense_stat_list']}
         defensive_urls = {i: f'https://www.nfl.com/stats/team-stats/defense/{i}/2024/reg/all' for i in config['defense_stat_list']}
@@ -79,7 +86,8 @@ class Data:
             for url_key in dict[0].keys():
                 url = dict[0][url_key]
                 self.driver.get(url)
-                team_df = pd.read_html(url)[0]  
+                team_df = pd.read_html(url)[0]
+                team_df['Team'] = team_df['Team'].apply(self.fix_team_names)
                 while True:
                     team_df, state = self.get_next_page(team_df, '/html/body/div[3]/main/section[3]/div/div/div/footer/div/div/a')
                     if not state:
@@ -140,3 +148,5 @@ class Data:
             outcomes_df = pd.concat([outcomes_df, df])
         outcomes_df.to_csv(config['game_outcomes'], index=False)
         outcome_driver.quit()
+        
+        
