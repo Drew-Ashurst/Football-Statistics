@@ -1,39 +1,41 @@
 Player,Team,Avg,Net Avg,Net Yds,Punts,Lng,Yds,IN 20,OOB,Dn,TB,FC,Ret,RetY,TD,P Blk
-AJ Cole,Las Vegas Raiders,53.4,45.8,1694,38,70,1975,16,6,3,5,8,15,181,0,1
-Logan Cooke,Jacksonville Jaguars,51.6,46.4,2042,44,73,2271,24,9,0,3,14,18,169,0,0
+AJ Cole,Las Vegas Raiders,51.7,44.8,2148,49,70,2482,19,9,6,6,9,18,214,0,1
 Cameron Johnston,Pittsburgh Steelers,51.5,37.5,75,2,58,103,1,0,0,0,1,1,28,0,0
-Jack Fox,Detroit Lions,51.4,46.0,1425,31,68,1595,14,1,4,4,9,13,90,0,0
-Braden Mann,Philadelphia Eagles,50.7,44.3,1417,33,70,1623,9,4,3,5,4,16,106,0,1
-Ryan Stonehouse,Tennessee Titans,50.6,37.4,1795,50,75,2429,13,3,2,4,8,31,554,1,2
-Corey Bojorquez,Cleveland Browns,50.3,42.1,2442,58,84,2920,25,7,8,4,14,25,398,1,0
-Bryce Baringer,New England Patriots,50.3,40.7,2118,52,75,2615,23,2,5,7,13,25,357,1,0
-Ryan Rehkow,Cincinnati Bengals,50.3,44.0,1718,39,80,1960,19,1,4,4,11,19,162,0,0
-Matt Araiza,Kansas City Chiefs,50.2,41.4,1242,30,67,1506,12,0,4,5,7,14,164,0,0
-Rigoberto Sanchez,Indianapolis Colts,49.7,43.7,2011,46,65,2285,20,3,2,4,19,18,194,0,0
-Michael Dickson,Seattle Seahawks,49.4,42.2,1773,42,68,2075,14,4,1,5,11,21,202,0,0
-Bryan Anger,Dallas Cowboys,49.3,42.5,1359,32,62,1578,12,1,3,1,12,15,199,0,0
-Blake Gillikin,Arizona Cardinals,49.1,43.1,1292,30,63,1472,14,2,5,1,8,14,160,0,0
-Thomas Morstead,New York Jets,48.7,42.0,1975,47,75,2289,15,4,4,6,11,22,194,0,0
-Bradley Pinion,Atlanta Falcons,47.9,39.4,1302,33,65,1580,8,2,3,1,8,19,258,0,0
-J.K. Scott,Los Angeles Chargers,47.7,42.6,2174,51,67,2433,18,7,4,3,16,21,199,0,0
-Daniel Whelan,Green Bay Packers,47.7,44.0,1408,32,74,1525,14,4,4,2,11,11,77,0,0
-Sam Martin,Buffalo Bills,47.6,41.9,1551,37,65,1760,18,5,3,4,10,15,129,0,0
-Tory Taylor,Chicago Bears,47.6,40.4,1897,47,68,2236,19,5,5,3,11,23,279,0,0
-Tommy Townsend,Houston Texans,47.4,44.8,2238,51,66,2372,27,5,10,3,17,15,74,0,1
-Tress Way,Washington Commanders,47.4,42.4,1271,30,74,1423,11,3,5,2,5,15,112,0,0
-Jordan Stout,Baltimore Ravens,47.3,42.3,1481,35,70,1656,14,5,3,3,8,16,115,0,0
-Matt Haack,New York Giants,47.0,39.5,829,21,66,988,9,2,0,1,9,9,139,1,0
-Riley Dixon,Denver Broncos,46.7,42.2,2152,51,65,2380,22,4,8,3,16,20,168,0,0
-Jake Bailey,Miami Dolphins,46.6,41.3,1239,31,59,1398,13,11,3,2,4,10,119,0,1
-Corliss Waitman,Pittsburgh Steelers,46.4,42.7,1666,39,71,1810,18,5,4,5,11,14,44,0,0
-Jamie Gillan,New York Giants,46.4,41.2,1031,25,67,1159,13,3,3,2,6,11,88,0,0
-Johnny Hekker,Carolina Panthers,45.9,41.8,1967,47,65,2159,16,2,10,2,16,17,152,0,0
-Ryan Wright,Minnesota Vikings,45.6,40.4,1413,35,66,1595,19,5,4,4,8,14,102,0,0
+Logan Cooke,Jacksonville Jaguars,51.2,46.1,2398,52,73,2660,27,10,0,3,17,22,202,0,0
+Jack Fox,Detroit Lions,50.7,46.3,1805,39,68,1979,20,1,5,4,14,15,94,0,0
+Ryan Stonehouse,Tennessee Titans,50.6,38.8,2331,62,75,3035,18,3,2,5,9,41,604,1,2
+Bryce Baringer,New England Patriots,50.2,41.0,2377,58,75,2912,25,3,5,8,14,28,375,1,0
+Braden Mann,Philadelphia Eagles,50.1,44.4,1907,44,70,2156,15,4,7,5,6,21,149,0,1
+Corey Bojorquez,Cleveland Browns,50.1,42.2,2910,69,84,3458,31,9,11,6,15,28,428,1,0
+Rigoberto Sanchez,Indianapolis Colts,50.0,43.6,2352,54,65,2702,22,3,2,4,21,24,270,0,0
+Blake Gillikin,Arizona Cardinals,49.7,44.3,1684,38,63,1887,19,2,6,1,13,16,183,0,0
+Matt Araiza,Kansas City Chiefs,49.4,41.7,1711,41,67,2024,17,0,5,5,12,19,213,0,0
+Ryan Rehkow,Cincinnati Bengals,49.3,42.9,1886,44,80,2168,21,2,4,5,12,21,182,0,0
+Michael Dickson,Seattle Seahawks,49.1,42.5,2336,55,68,2699,22,6,5,7,12,25,223,0,0
+Tory Taylor,Chicago Bears,48.7,41.6,2621,63,68,3067,23,5,6,3,13,36,386,0,0
+Thomas Morstead,New York Jets,48.1,41.4,2197,53,75,2547,16,6,4,7,12,24,210,0,0
+Bryan Anger,Dallas Cowboys,47.9,40.8,1918,47,62,2250,18,1,5,3,16,22,272,0,0
+Jordan Stout,Baltimore Ravens,47.9,42.6,1787,42,70,2010,15,6,3,3,9,21,163,0,0
+Tommy Townsend,Houston Texans,47.7,45.0,2653,60,66,2814,33,5,10,4,21,19,81,0,1
+Sam Martin,Buffalo Bills,47.6,41.9,1759,43,65,2001,20,5,4,4,11,18,162,0,1
+Bradley Pinion,Atlanta Falcons,47.6,39.4,1417,36,65,1715,9,2,3,2,10,19,258,0,0
+Riley Dixon,Denver Broncos,47.1,43.0,2578,60,65,2828,27,6,9,3,18,24,190,0,0
+Jake Bailey,Miami Dolphins,47.1,41.8,1715,42,59,1932,17,13,3,3,7,15,157,0,1
+Matt Haack,Jacksonville Jaguars,47.0,39.5,829,21,66,988,9,2,0,1,9,9,139,1,0
+Corliss Waitman,Pittsburgh Steelers,47.0,42.9,1974,46,71,2162,20,6,4,5,13,18,88,0,0
+J.K. Scott,Los Angeles Chargers,46.9,42.1,2654,63,67,2957,25,9,6,3,19,26,243,0,0
+Daniel Whelan,Green Bay Packers,46.9,42.6,1834,43,74,2017,20,4,5,3,15,16,123,0,0
+Tress Way,Washington Commanders,46.5,42.3,1564,37,74,1722,16,4,6,2,8,17,118,0,0
+Ryan Wright,Minnesota Vikings,45.9,40.6,1746,43,66,1974,22,6,5,5,8,19,128,0,0
+Johnny Hekker,Carolina Panthers,45.4,42.0,2354,56,65,2544,18,3,13,2,18,20,150,0,0
 Jake Camarda,Tampa Bay Buccaneers,45.3,36.5,474,13,67,589,5,1,3,0,3,6,115,1,0
 Mitch Wishnowsky,San Francisco 49ers,45.2,37.9,834,23,58,994,11,0,7,0,6,9,160,0,1
-Ethan Evans,Los Angeles Rams,45.1,40.9,1227,30,67,1354,17,6,5,1,6,12,107,0,0
-Matthew Hayball,New Orleans Saints,44.2,40.3,1893,47,59,2076,27,5,5,3,18,16,123,0,0
-Trenton Gill,Tampa Bay Buccaneers,43.0,38.0,761,20,57,861,6,1,4,1,7,7,80,0,0
+Ethan Evans,Los Angeles Rams,44.2,40.2,1569,39,67,1724,21,9,6,2,9,13,115,0,0
+Pat O'Donnell,San Francisco 49ers,44.2,37.6,414,11,56,486,4,1,1,1,3,5,52,0,0
+Jamie Gillan,New York Giants,44.1,40.8,1714,42,67,1854,22,7,4,2,15,14,100,0,0
+Matthew Hayball,New Orleans Saints,43.8,39.8,2267,57,59,2496,31,6,6,3,20,22,169,0,0
+Trenton Gill,Tampa Bay Buccaneers,43.3,38.9,1051,27,57,1169,9,2,6,1,8,10,98,0,0
 Chris Boswell,Pittsburgh Steelers,43.0,43.0,43,1,43,43,0,0,0,0,0,1,0,0,0
-Pat O'Donnell,San Francisco 49ers,41.0,34.3,103,3,43,123,1,1,0,1,1,0,0,0,0
+Jack Browning,Tampa Bay Buccaneers,42.7,32.7,98,3,49,128,0,0,0,0,1,2,30,0,0
 Ty Zentner,Los Angeles Rams,40.1,38.3,268,8,53,281,3,1,2,0,2,2,13,0,1
+Chad Ryland,Arizona Cardinals,39.0,39.0,117,3,44,117,0,1,0,0,2,0,0,0,0

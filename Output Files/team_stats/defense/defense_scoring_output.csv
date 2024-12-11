@@ -1,8 +1,8 @@
 Team,FR TD,SFTY,INT TD
-Seattle Seahawks,2,1,1
+Seattle Seahawks,2,1,2
 Atlanta Falcons,1,0,1
 Cleveland Browns,1,1,0
-Denver Broncos,1,2,1
+Denver Broncos,1,2,3
 Houston Texans,1,0,1
 Indianapolis Colts,1,0,0
 Jacksonville Jaguars,1,0,0
@@ -10,12 +10,13 @@ Kansas City Chiefs,1,0,0
 Los Angeles Rams,1,1,2
 Minnesota Vikings,1,0,2
 New England Patriots,1,0,0
+Pittsburgh Steelers,1,0,0
 Tampa Bay Buccaneers,1,1,0
 Baltimore Ravens,0,0,0
 Buffalo Bills,0,0,2
 Carolina Panthers,0,0,0
 Chicago Bears,0,0,1
-Cincinnati Bengals,0,1,0
+Cincinnati Bengals,0,1,1
 Dallas Cowboys,0,0,1
 Detroit Lions,0,0,1
 Green Bay Packers,0,0,1
@@ -27,7 +28,6 @@ New York Giants,0,0,0
 New York Jets,0,0,0
 Philadelphia Eagles,0,0,0
 Arizona Cardinals,0,2,0
-Pittsburgh Steelers,0,0,0
-Los Angeles Chargers,0,0,0
+Los Angeles Chargers,0,0,1
 San Francisco 49ers,0,0,1
 Washington Commanders,0,0,1

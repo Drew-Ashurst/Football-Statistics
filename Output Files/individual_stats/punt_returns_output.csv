@@ -1,63 +1,73 @@
 Player,Team,Avg,Ret,Yds,PRet T,20+,40+,Lng,FC,FUM
-Dante Pettis,New Orleans Saints,27.0,2,54,0,1,1,53,3,0
+Dante Pettis,New Orleans Saints,27.0,2,54,0,1,1,53,9,0
 Parker Washington,Jacksonville Jaguars,24.0,6,144,1,1,1,96,4,0
-Anthony Gould,Indianapolis Colts,19.0,1,19,0,0,0,19,4,0
-KaVontae Turpin,Dallas Cowboys,16.2,9,146,1,2,1,60,10,0
 Rashid Shaheed,New Orleans Saints,15.9,9,143,1,2,2,54,2,1
-Marcus Jones,New England Patriots,15.6,20,311,0,4,2,62,7,2
+Marcus Jones,New England Patriots,15.2,25,380,0,5,2,62,8,2
 Clark Phillips III,Atlanta Falcons,15.0,1,15,0,0,0,15,0,0
+Deven Thompkins,Carolina Panthers,15.0,1,15,0,0,0,15,0,0
 Braxton Berrios,Miami Dolphins,14.7,7,103,0,2,1,44,12,0
-Kalif Raymond,Detroit Lions,14.4,25,360,1,3,2,90,8,0
-Derius Davis,Los Angeles Chargers,14.2,12,171,0,2,1,53,14,0
-Robert Woods,Houston Texans,14.0,7,98,0,1,0,36,9,0
-DJ Turner,Las Vegas Raiders,13.5,4,54,0,1,0,24,2,0
-Marvin Mims Jr.,Denver Broncos,13.3,21,279,0,4,0,38,14,0
-Tylan Wallace,Baltimore Ravens,12.8,4,51,0,1,0,21,9,0
-Brandon Codrington,Buffalo Bills,12.2,20,243,0,3,0,29,6,1
-Tank Dell,Houston Texans,12.0,2,24,0,0,0,13,0,0
+Kalif Raymond,Detroit Lions,14.4,27,390,1,3,2,90,9,0
+Josh Blackwell,Chicago Bears,14.0,1,14,0,0,0,14,1,0
+Ricky Pearsall,San Francisco 49ers,13.7,3,41,0,1,0,20,1,0
+Derius Davis,Los Angeles Chargers,13.6,14,190,0,2,1,53,19,1
+Marvin Mims Jr.,Denver Broncos,13.5,23,311,0,5,0,38,16,0
+Tank Dell,Houston Texans,12.7,3,38,0,0,0,14,0,0
+KaVontae Turpin,Dallas Cowboys,12.4,13,161,1,3,1,60,15,1
 Tyreik McAllister,Las Vegas Raiders,12.0,2,24,0,0,0,14,0,0
 Keisean Nixon,Green Bay Packers,12.0,4,48,0,1,0,39,0,0
-Cooper DeJean,Philadelphia Eagles,11.8,14,165,0,2,0,31,18,1
-Greg Dortch,Arizona Cardinals,11.8,9,106,0,1,0,27,2,0
-Mecole Hardman,Kansas City Chiefs,11.7,17,199,0,2,1,55,9,0
-Devin Duvernay,Jacksonville Jaguars,11.6,7,81,0,1,1,53,9,0
-Calvin Austin III,Pittsburgh Steelers,11.4,21,239,1,2,1,73,13,0
-Jaelon Darden,Cleveland Browns,11.3,20,226,0,1,0,28,3,0
-Josh Downs,Indianapolis Colts,11.2,14,157,0,1,0,23,5,0
+Brandon Codrington,Buffalo Bills,11.9,22,261,0,3,0,29,6,1
+Nikko Remigio,Kansas City Chiefs,11.3,3,34,0,1,0,21,1,0
+Calvin Austin III,Pittsburgh Steelers,11.3,23,259,1,2,1,73,14,0
+Tylan Wallace,Baltimore Ravens,11.2,6,67,0,1,0,21,12,1
+Cooper DeJean,Philadelphia Eagles,11.1,15,167,0,2,0,31,18,1
+Anthony Gould,Indianapolis Colts,11.0,2,22,0,0,0,19,4,0
 Tyreek Hill,Miami Dolphins,11.0,1,11,0,0,0,11,0,0
 Kameron Johnson,Tampa Bay Buccaneers,11.0,1,11,0,0,0,11,1,0
-Olamide Zaccheaus,Washington Commanders,10.9,13,142,0,2,0,24,11,3
-Trey Palmer,Tampa Bay Buccaneers,10.9,7,76,0,0,0,17,5,0
+Kadarius Toney,Cleveland Browns,11.0,4,44,0,0,0,19,1,1
+DJ Turner,Las Vegas Raiders,11.0,7,77,0,1,0,24,4,0
+Jaelon Darden,Cleveland Browns,10.8,23,248,0,1,0,28,6,0
 Deonte Harty,Baltimore Ravens,10.6,8,85,0,0,0,16,4,0
-DeAndre Carter,Chicago Bears,10.2,15,153,0,2,0,38,8,0
+Olamide Zaccheaus,Washington Commanders,10.5,17,179,0,2,0,24,14,3
+Maurice Alexander,Detroit Lions,10.5,4,42,0,1,0,23,3,1
+Trey Palmer,Tampa Bay Buccaneers,10.4,9,94,0,0,0,17,9,1
+Mecole Hardman,Kansas City Chiefs,10.2,20,203,0,2,1,55,9,0
+Josh Downs,Indianapolis Colts,10.1,16,161,0,1,0,23,7,0
+Greg Dortch,Arizona Cardinals,9.8,14,137,0,1,0,27,2,0
 Jermaine Jackson,New Orleans Saints,9.7,7,68,0,0,0,18,9,0
-Avery Williams,Atlanta Falcons,9.5,12,114,0,1,0,28,12,0
-Raheem Blackshear,Carolina Panthers,9.4,14,131,0,0,0,16,2,1
+Robert Woods,Houston Texans,9.6,14,135,0,1,0,36,10,0
+Devin Duvernay,Jacksonville Jaguars,9.4,10,94,0,1,1,53,12,0
 Ladd McConkey,Los Angeles Chargers,9.3,3,28,0,0,0,12,8,0
-Xavier Smith,Los Angeles Rams,9.3,9,84,0,1,0,38,11,0
-Xavier Gipson,New York Jets,9.2,25,230,0,3,1,40,13,2
+DeAndre Carter,Chicago Bears,9.3,17,158,0,2,0,38,9,1
 James Proche,Cleveland Browns,9.2,13,119,0,0,0,17,1,0
-Britain Covey,Philadelphia Eagles,9.0,1,9,0,0,0,9,3,0
-Jha'Quan Jackson,Tennessee Titans,8.5,24,205,0,1,0,20,5,2
-Jacob Cowing,San Francisco 49ers,8.3,15,124,0,1,0,30,6,2
+Avery Williams,Atlanta Falcons,9.0,15,135,0,1,0,28,13,0
+Xavier Smith,Los Angeles Rams,8.6,12,103,0,1,0,38,13,0
+Raheem Blackshear,Carolina Panthers,8.5,17,145,0,0,0,16,3,1
+Ameer Abdullah,Las Vegas Raiders,8.4,7,59,0,0,0,18,3,1
+Xavier Gipson,New York Jets,8.2,28,230,0,3,1,40,14,2
+Jacob Cowing,San Francisco 49ers,8.1,21,171,0,1,0,30,7,2
 Kyle Juszczyk,San Francisco 49ers,8.0,1,8,0,0,0,8,0,0
-Dee Williams,Seattle Seahawks,7.4,13,96,0,1,0,23,16,2
+Jha'Quan Jackson,Tennessee Titans,7.7,28,215,0,1,0,20,7,3
+Britain Covey,Philadelphia Eagles,7.7,6,46,0,0,0,10,5,0
+Jayden Reed,Green Bay Packers,7.6,11,84,0,0,0,16,19,1
+Ihmir Smith-Marsette,New York Giants,7.6,26,197,0,2,0,22,13,1
+Amon-Ra St. Brown,Detroit Lions,7.5,2,15,0,0,0,8,1,0
+Brandon Powell,Minnesota Vikings,7.4,19,141,0,0,0,15,9,0
+Dee Williams,New York Giants,7.4,15,111,0,1,0,23,21,2
 Tre Tucker,Las Vegas Raiders,7.3,6,44,0,1,0,21,3,0
-Jayden Reed,Green Bay Packers,7.1,9,64,0,0,0,16,14,1
 Charlie Jones,Cincinnati Bengals,7.1,14,99,0,1,0,23,5,1
-Trenton Irwin,Cincinnati Bengals,7.0,8,56,0,0,0,17,4,0
-Brandon Powell,Minnesota Vikings,7.0,14,98,0,0,0,15,7,0
-Malik Washington,Miami Dolphins,6.4,7,45,0,0,0,19,0,0
-Ihmir Smith-Marsette,New York Giants,6.3,18,114,0,1,0,22,10,1
+Trenton Irwin,Carolina Panthers,7.0,8,56,0,0,0,17,4,0
+David Moore,Carolina Panthers,6.5,2,13,0,0,0,7,5,0
+Malik Washington,Miami Dolphins,6.2,12,75,0,0,0,19,1,1
+Isaiah Williams,Cincinnati Bengals,6.2,4,25,0,0,0,12,1,0
 Steven Sims,Houston Texans,6.2,16,99,0,0,0,19,8,2
-David Moore,Carolina Panthers,6.0,1,6,0,0,0,6,5,0
+Mason Kinsey,Tennessee Titans,6.0,1,6,0,0,0,6,2,0
 Kyren Williams,Los Angeles Rams,6.0,2,12,0,0,0,12,1,0
 Jalen McMillan,Tampa Bay Buccaneers,4.0,3,12,0,0,0,11,2,0
 Austin Trammell,Jacksonville Jaguars,3.5,2,7,0,0,0,6,0,1
 Desmond King,Baltimore Ravens,1.0,2,2,0,0,0,2,1,0
 Corey Ballentine,Green Bay Packers,0.0,1,0,0,0,0,0,0,1
 Jalen Nailor,Minnesota Vikings,0.0,1,0,0,0,0,0,0,1
+Amani Oruwariye,Dallas Cowboys,0.0,1,0,0,0,0,0,0,1
 Darius Slayton,New York Giants,0.0,1,0,0,0,0,0,1,1
 Jeremiah Trotter Jr.,Philadelphia Eagles,0.0,1,0,0,0,0,0,0,0
 Cedrick Wilson Jr.,New Orleans Saints,0.0,1,0,0,0,0,0,0,1
-Ameer Abdullah,Las Vegas Raiders,-0.3,3,-1,0,0,0,0,1,1
