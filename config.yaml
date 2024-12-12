@@ -1,8 +1,8 @@
 ---
- team_outputs: 'Output Files\team_stats'
- individual_outputs: 'Output Files\individual_stats'
- roster: 'Output Files\rosters.csv'
- game_outcomes: 'Output Files\game_outcomes.csv'
+ team_outputs: 'Output Files/team_stats'
+ individual_outputs: 'Output Files/individual_stats'
+ roster: 'Output Files/rosters.csv'
+ game_outcomes: 'Output Files/game_outcomes.csv'
 
  offense_stat_list:
    - passing

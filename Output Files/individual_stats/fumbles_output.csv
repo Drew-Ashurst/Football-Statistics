@@ -1,78 +1,102 @@
 Player,Team,FF,FR,FR TD
+T.J. Watt,Pittsburgh Steelers,5,2,0
 Jessie Bates,Atlanta Falcons,4,1,0
+Zack Baun,Philadelphia Eagles,4,1,0
+Nick Herbig,Pittsburgh Steelers,4,1,0
 Fred Warner,San Francisco 49ers,4,0,0
-T.J. Watt,Pittsburgh Steelers,4,2,0
-Zack Baun,Philadelphia Eagles,3,1,0
-Myles Garrett,Cleveland Browns,3,0,0
-Nick Herbig,Pittsburgh Steelers,3,1,0
+Lavonte David,Tampa Bay Buccaneers,3,1,0
+Zaire Franklin,Indianapolis Colts,3,0,0
+Myles Garrett,Cleveland Browns,3,1,0
+Jonathan Greenard,Minnesota Vikings,3,0,0
+Eric Kendricks,Dallas Cowboys,3,1,0
 Nate Landman,Atlanta Falcons,3,0,0
+Laiatu Latu,Indianapolis Colts,3,1,0
+Bobby Okereke,New York Giants,3,2,0
 Tykee Smith,Tampa Bay Buccaneers,3,0,0
+Quincy Williams,New York Jets,3,2,0
 Azeez Al-Shaair,Houston Texans,2,0,0
 Derek Barnett,Houston Texans,2,1,1
+Sean Murphy-Bunting,Arizona Cardinals,2,0,0
+Brian Burns,New York Giants,2,0,0
 Leo Chenal,Kansas City Chiefs,2,0,0
-Lavonte David,Tampa Bay Buccaneers,2,0,0
 DeShon Elliott,Pittsburgh Steelers,2,3,0
 Kingsley Enagbare,Green Bay Packers,2,0,0
 A.J. Epenesa,Buffalo Bills,2,0,0
 Braden Fiske,Los Angeles Rams,2,2,0
-Zaire Franklin,Indianapolis Colts,2,0,0
 Derick Hall,Seattle Seahawks,2,1,1
 Neville Hewitt,Houston Texans,2,0,0
 Amani Hooker,Tennessee Titans,2,0,0
 Jalyx Hunt,Philadelphia Eagles,2,0,0
-Eric Kendricks,Dallas Cowboys,2,0,0
 Arden Key,Tennessee Titans,2,1,0
-Laiatu Latu,Indianapolis Colts,2,1,0
+Julian Love,Seattle Seahawks,2,0,0
 Khalil Mack,Los Angeles Chargers,2,1,0
+Marte Mapu,New England Patriots,2,0,0
 Quan Martin,Washington Commanders,2,0,0
 Will McDonald IV,New York Jets,2,1,0
+Isaiah McGuire,Cleveland Browns,2,0,0
+Keisean Nixon,Green Bay Packers,2,0,0
 Dayo Odeyingbo,Indianapolis Colts,2,1,0
-Bobby Okereke,New York Giants,2,2,0
 Andru Phillips,New York Giants,2,0,0
 Germaine Pratt,Cincinnati Bengals,2,2,0
 Amik Robertson,Detroit Lions,2,0,0
-Greg Rousseau,Buffalo Bills,2,0,0
+Greg Rousseau,Buffalo Bills,2,1,0
 Jeffery Simmons,Tennessee Titans,2,2,0
 Alontae Taylor,New Orleans Saints,2,0,0
 Payton Turner,New Orleans Saints,2,0,0
+Kyle Van Noy,Baltimore Ravens,2,0,0
 Jared Verse,Los Angeles Rams,2,1,0
 Trevin Wallace,Carolina Panthers,2,1,0
 Keion White,New England Patriots,2,0,0
-Quincy Williams,New York Jets,2,2,0
+Donovan Wilson,Dallas Cowboys,2,1,0
 Logan Wilson,Cincinnati Bengals,2,2,0
 Kwon Alexander,Denver Broncos,1,1,0
-Evan Anderson,San Francisco 49ers,1,0,0
+Josh Hines-Allen,Jacksonville Jaguars,1,1,0
+Evan Anderson,San Francisco 49ers,1,1,0
 Felix Anudike-Uzomah,Kansas City Chiefs,1,1,0
 Dorance Armstrong,Washington Commanders,1,0,0
+Brian Asamoah,Minnesota Vikings,1,0,0
 Jerome Baker,Seattle Seahawks,1,1,0
+Corey Ballentine,Green Bay Packers,1,0,0
 Deonte Banks,New York Giants,1,0,0
 Cody Barton,Denver Broncos,1,1,1
 Quinton Bell,Miami Dolphins,1,0,0
-Christian Benford,Buffalo Bills,1,0,0
+Dane Belton,New York Giants,1,0,0
+Christian Benford,Buffalo Bills,1,1,0
 Andrew Billings,Chicago Bears,1,0,0
+Cole Bishop,Buffalo Bills,1,0,0
+Nik Bonitto,Denver Broncos,1,0,0
 Joey Bosa,Los Angeles Chargers,1,0,0
 Nick Bosa,San Francisco 49ers,1,1,0
 Brian Branch,Detroit Lions,1,0,0
 Bryan Bresee,New Orleans Saints,1,0,0
 Jaquan Brisker,Chicago Bears,1,0,0
-Karl Brooks,Green Bay Packers,1,1,0
+Karl Brooks,Green Bay Packers,1,2,0
 Sydney Brown,Philadelphia Eagles,1,0,0
 Tony Brown,Cleveland Browns,1,0,0
+Coby Bryant,Seattle Seahawks,1,0,0
 Oren Burks,Philadelphia Eagles,1,0,0
-Brian Burns,New York Giants,1,0,0
+Amari Burney,Las Vegas Raiders,1,0,0
 Calais Campbell,Miami Dolphins,1,0,0
 Elijah Campbell,Miami Dolphins,1,0,0
 Jack Campbell,Detroit Lions,1,0,0
 Joe Cardona,New England Patriots,1,0,0
+Jalen Carter,Philadelphia Eagles,1,0,0
+Lorenzo Carter,Atlanta Falcons,1,0,0
 Jeremy Chinn,Washington Commanders,1,2,0
 Chuck Clark,New York Jets,1,1,0
 Micheal Clemons,New York Jets,1,0,0
+Zaven Collins,Arizona Cardinals,1,0,0
+Chamarri Conner,Kansas City Chiefs,1,1,1
 James Conner,Arizona Cardinals,1,0,0
 Edgerrin Cooper,Green Bay Packers,1,1,0
 Jonathon Cooper,Denver Broncos,1,0,0
+Brenton Cox Jr.,Green Bay Packers,1,0,0
 Nick Cross,Indianapolis Colts,1,0,0
 Kam Curl,Los Angeles Rams,1,1,1
-Yaya Diaby,Tampa Bay Buccaneers,1,0,0
+Michael Danna,Kansas City Chiefs,1,0,0
+Carlton Davis,Detroit Lions,1,2,0
+Jamel Dean,Tampa Bay Buccaneers,1,0,0
+Yaya Diaby,Tampa Bay Buccaneers,1,1,0
 Marcellas Dial Jr.,New England Patriots,1,0,0
 Victor Dimukeje,Arizona Cardinals,1,0,0
 Tyrel Dodson,Miami Dolphins,1,0,0
@@ -87,14 +111,18 @@ Martin Emerson,Cleveland Browns,1,1,0
 Minkah Fitzpatrick,Pittsburgh Steelers,1,0,0
 Leonard Floyd,San Francisco 49ers,1,0,0
 Dante Fowler Jr.,Washington Commanders,1,0,0
+Jordan Fuller,Carolina Panthers,1,0,0
 Tyrek Funderburk,Tampa Bay Buccaneers,1,0,0
 Dennis Gardeck,Arizona Cardinals,1,0,0
+C.J. Gardner-Johnson,Philadelphia Eagles,1,0,0
+Rashan Gary,Green Bay Packers,1,0,0
 Willie Gay Jr.,New Orleans Saints,1,2,0
+C.J. Goodwin,Dallas Cowboys,1,0,0
 Brandon Graham,Philadelphia Eagles,1,0,0
 Carl Granderson,New Orleans Saints,1,0,0
 J.T. Gray,New Orleans Saints,1,0,0
+Art Green,New York Giants,1,0,0
 Renardo Green,San Francisco 49ers,1,0,0
-Jonathan Greenard,Minnesota Vikings,1,0,0
 Kyle Hamilton,Baltimore Ravens,1,1,0
 Da'Shawn Hand,Miami Dolphins,1,0,0
 Daniel Hardy,Chicago Bears,1,0,0
@@ -118,67 +146,86 @@ Jaylon Jones,Chicago Bears,1,0,0
 Jonathan Jones,New England Patriots,1,0,0
 Patrick Jones II,Minnesota Vikings,1,0,0
 Linval Joseph,Dallas Cowboys,1,0,0
-Calijah Kancey,Tampa Bay Buccaneers,1,0,0
+Calijah Kancey,Tampa Bay Buccaneers,1,1,0
 Kamren Kinchens,Los Angeles Rams,1,0,0
 Javon Kinlaw,New York Jets,1,1,0
 Chris Lammons,Indianapolis Colts,1,2,0
 Demarcus Lawrence,Dallas Cowboys,1,0,0
+Dexter Lawrence,New York Giants,1,0,0
 Carl Lawson,Dallas Cowboys,1,0,0
 Deommodore Lenoir,San Francisco 49ers,1,0,0
+Jourdan Lewis,Dallas Cowboys,1,1,0
+Tyquan Lewis,Indianapolis Colts,1,0,0
 Devin Lloyd,Jacksonville Jaguars,1,0,0
-Roy Lopez,Arizona Cardinals,1,0,0
-Julian Love,Seattle Seahawks,1,0,0
+Roy Lopez,Arizona Cardinals,1,1,0
 Jesse Luketa,Arizona Cardinals,1,0,0
 Darrell Luter Jr.,San Francisco 49ers,1,0,0
 Frankie Luvu,Washington Commanders,1,2,0
 Nnamdi Madubuike,Baltimore Ravens,1,0,0
 Boye Mafe,Seattle Seahawks,1,0,0
-Marte Mapu,New England Patriots,1,0,0
 Tyrann Mathieu,New Orleans Saints,1,1,0
 Ochaun Mathis,New England Patriots,1,0,0
+Isaiah McDuffie,Green Bay Packers,1,0,0
 Micah McFadden,New York Giants,1,1,0
-Isaiah McGuire,Cleveland Browns,1,0,0
 Ja'Quan McMillian,Denver Broncos,1,0,0
+Alim McNeill,Detroit Lions,1,0,0
 Max Melton,Arizona Cardinals,1,0,0
 Josh Metellus,Minnesota Vikings,1,0,0
 Ventrell Miller,Jacksonville Jaguars,1,0,0
 Riley Moss,Denver Broncos,1,1,0
 Byron Murphy,Minnesota Vikings,1,0,0
-Keisean Nixon,Green Bay Packers,1,0,0
+"Kenneth Murray, Jr.",Tennessee Titans,1,0,0
+Anthony Nelson,Tampa Bay Buccaneers,1,1,0
+Jer'Zhan Newton,Washington Commanders,1,1,0
 Tyler Nubin,New York Giants,1,1,0
+Kene Nwangwu,New York Jets,1,0,0
 Dare Ogunbowale,Houston Texans,1,0,0
 Ogbo Okoronkwo,Cleveland Browns,1,0,0
 Sam Okuayinonu,San Francisco 49ers,1,0,0
 Ed Oliver,Buffalo Bills,1,0,0
 Segun Olubi,Indianapolis Colts,1,1,0
 Levi Onwuzurike,Detroit Lions,1,0,0
-DeMarvion Overshown,Dallas Cowboys,1,0,0
+DeMarvion Overshown,Dallas Cowboys,1,1,0
 Odafe Oweh,Baltimore Ravens,1,0,0
+Jonathan Owens,Chicago Bears,1,1,0
+Tyler Owens,Washington Commanders,1,0,0
 Jeremiah Owusu-Koramoah,Cleveland Browns,1,0,0
 Owen Pappoe,Arizona Cardinals,1,0,0
 Micah Parsons,Dallas Cowboys,1,0,0
 Kwity Paye,Indianapolis Colts,1,0,0
 Jayden Peevy,Carolina Panthers,1,0,0
 Mike Pennel,Kansas City Chiefs,1,0,0
+Jabrill Peppers,New England Patriots,1,0,0
 Harrison Phillips,Minnesota Vikings,1,1,0
+Clark Phillips III,Atlanta Falcons,1,1,0
 James Pierre,Pittsburgh Steelers,1,0,0
 Jalen Pitre,Houston Texans,1,0,0
 Patrick Queen,Pittsburgh Steelers,1,1,0
+Taylor Rapp,Buffalo Bills,1,0,0
 Jeremy Reaves,Washington Commanders,1,0,0
 Jalen Reeves-Maybin,Detroit Lions,1,0,0
 Rashee Rice,Kansas City Chiefs,1,0,0
+Kelee Ringo,Philadelphia Eagles,1,1,0
 Elandon Roberts,Pittsburgh Steelers,1,0,0
 A'Shawn Robinson,Carolina Panthers,1,0,0
+Isaiah Rodgers,Philadelphia Eagles,1,0,0
+Mike Sainristil,Washington Commanders,1,1,0
+Drew Sample,Cincinnati Bengals,1,0,0
 Noah Sewell,Chicago Bears,1,0,0
+Zach Sieler,Miami Dolphins,1,1,0
+Isaiah Simmons,New York Giants,1,0,0
 Darius Slay,Philadelphia Eagles,1,0,0
 Roquan Smith,Baltimore Ravens,1,1,0
+Chau Smith-Wade,Carolina Panthers,1,0,0
 Dawuane Smoot,Buffalo Bills,1,0,0
 Javon Solomon,Buffalo Bills,1,0,0
+Tyrique Stevenson,Chicago Bears,1,0,0
 Reddy Steward,Chicago Bears,1,0,0
 Grover Stewart,Indianapolis Colts,1,1,0
 Dante Stills,Arizona Cardinals,1,0,0
 Benjamin St-Juste,Washington Commanders,1,0,0
 Montez Sweat,Chicago Bears,1,0,0
+Teair Tart,Los Angeles Chargers,1,1,0
 Darrell Taylor,Chicago Bears,1,0,0
 Juanyeh Thomas,Dallas Cowboys,1,0,0
 Solomon Thomas,New York Jets,1,0,0
@@ -190,19 +237,22 @@ Kobie Turner,Los Angeles Rams,1,1,0
 Shy Tuttle,Carolina Panthers,1,2,0
 Sione Vaki,Detroit Lions,1,0,0
 Andrew Van Ginkel,Minnesota Vikings,1,0,0
-Kyle Van Noy,Baltimore Ravens,1,0,0
-Bobby Wagner,Washington Commanders,1,1,0
+Lukas Van Ness,Green Bay Packers,1,1,0
+Bobby Wagner,Washington Commanders,1,2,0
 Travon Walker,Jacksonville Jaguars,1,1,1
 K'Von Wallace,Seattle Seahawks,1,0,0
 Denzel Ward,Cleveland Browns,1,1,0
+Broderick Washington,Baltimore Ravens,1,0,0
 Tershawn Wharton,Kansas City Chiefs,1,0,0
 Nate Wiggins,Baltimore Ravens,1,0,0
 Dorian Williams,Buffalo Bills,1,2,0
 Evan Williams,Green Bay Packers,1,0,0
+Milton Williams,Philadelphia Eagles,1,1,0
 Eric Wilson,Green Bay Packers,1,0,0
 Tyree Wilson,Las Vegas Raiders,1,0,0
 Devon Witherspoon,Seattle Seahawks,1,0,0
 D.J. Wonnum,Carolina Panthers,1,0,0
+Riq Woolen,Seattle Seahawks,1,0,0
 Isaac Yiadom,San Francisco 49ers,1,1,0
 Byron Young,Los Angeles Rams,1,0,0
 Chase Young,New Orleans Saints,1,0,0
@@ -210,23 +260,25 @@ Ameer Abdullah,Las Vegas Raiders,0,0,0
 Yasir Abdullah,Jacksonville Jaguars,0,0,0
 Micah Abernathy,Atlanta Falcons,0,0,0
 Johnathan Abram,New Orleans Saints,0,0,0
+Kris Abrams-Draine,Denver Broncos,0,0,0
 Davante Adams,Las Vegas Raiders,0,0,0
-Jamal Adams,Tennessee Titans,0,0,0
+Jamal Adams,Detroit Lions,0,0,0
 Matthew Adams,New York Giants,0,0,0
 Montravius Adams,Pittsburgh Steelers,0,0,0
-Myles Adams,Seattle Seahawks,0,0,0
+Myles Adams,Detroit Lions,0,0,0
 Tony Adams,New York Jets,0,0,0
 Jordan Addison,Minnesota Vikings,0,0,0
 Adetomiwa Adebawore,Indianapolis Colts,0,0,0
 Paulson Adebo,New Orleans Saints,0,0,0
 Nate Adkins,Denver Broncos,0,0,0
 Cal Adomitis,Cincinnati Bengals,0,0,0
+Mitchell Agude,Detroit Lions,0,0,0
 Cam Akers,Houston Texans,0,0,0
 Jordan Akins,Cleveland Browns,0,0,0
 Jaire Alexander,Green Bay Packers,0,1,0
+Brandon Allen,San Francisco 49ers,0,0,0
 Davis Allen,Los Angeles Rams,0,0,0
 Jonathan Allen,Washington Commanders,0,0,0
-Josh Hines-Allen,Jacksonville Jaguars,0,1,0
 Josh Allen,Buffalo Bills,0,0,0
 Zach Allen,Denver Broncos,0,0,0
 Tyler Allgeier,Atlanta Falcons,0,0,0
@@ -242,11 +294,13 @@ Eli Ankou,Buffalo Bills,0,0,0
 Daijahn Anthony,Cincinnati Bengals,0,0,0
 Alex Anzalone,Detroit Lions,0,0,0
 Eli Apple,Los Angeles Chargers,0,0,0
+Matt Araiza,Kansas City Chiefs,0,0,0
 Jalyn Armour-Davis,Baltimore Ravens,0,0,0
 Arik Armstead,Jacksonville Jaguars,0,0,0
 Terrion Arnold,Detroit Lions,0,0,0
-Brian Asamoah,Minnesota Vikings,0,0,0
 Tutu Atwell,Los Angeles Rams,0,0,0
+Alex Austin,New England Patriots,0,0,0
+Kevin Austin Jr.,New Orleans Saints,0,0,0
 Denico Autry,Houston Texans,0,0,0
 Tre Avery,Tennessee Titans,0,0,0
 Chidobe Awuzie,Tennessee Titans,0,0,0
@@ -256,15 +310,16 @@ Jake Bailey,Miami Dolphins,0,0,0
 Levelle Bailey,Denver Broncos,0,0,0
 Budda Baker,Arizona Cardinals,0,0,0
 Darrell Baker Jr.,Tennessee Titans,0,0,0
-Corey Ballentine,Green Bay Packers,0,0,0
 Aaron Banks,San Francisco 49ers,0,0,0
 Saquon Barkley,Philadelphia Eagles,0,0,0
 Christian Barmore,New England Patriots,0,0,0
 AJ Barner,Seattle Seahawks,0,0,0
 Derrick Barnes,Detroit Lions,0,0,0
 Krys Barnes,Arizona Cardinals,0,0,0
+Amare Barno,Carolina Panthers,0,0,0
 Jackson Barton,Arizona Cardinals,0,0,0
 Carlos Basham,New York Giants,0,0,0
+Tyler Bass,Buffalo Bills,0,0,0
 Rashod Bateman,Baltimore Ravens,0,0,0
 Jake Bates,Detroit Lions,0,0,0
 John Bates,Washington Commanders,0,0,0
@@ -275,7 +330,6 @@ Markquese Bell,Dallas Cowboys,0,0,0
 Vonn Bell,Cincinnati Bengals,0,0,0
 Daniel Bellinger,New York Giants,0,0,0
 Nick Bellore,Washington Commanders,0,0,0
-Dane Belton,New York Giants,0,0,0
 Jakorian Bennett,Las Vegas Raiders,0,0,0
 Trey Benson,Arizona Cardinals,0,0,0
 Ja'Whaun Bentley,New England Patriots,0,0,0
@@ -285,13 +339,14 @@ Jarrick Bernard-Converse,New York Jets,0,0,0
 Braxton Berrios,Miami Dolphins,0,0,0
 JD Bertrand,Atlanta Falcons,0,0,0
 Tatum Bethune,San Francisco 49ers,0,1,0
-Cole Bishop,Buffalo Bills,0,0,0
+Tank Bigsby,Jacksonville Jaguars,0,0,0
 Beanie Bishop Jr.,Pittsburgh Steelers,0,0,0
 Julian Blackmon,Indianapolis Colts,0,1,0
 Raheem Blackshear,Carolina Panthers,0,0,0
 Angelo Blackson,Arizona Cardinals,0,0,0
 Josh Blackwell,Chicago Bears,0,0,0
 Marquise Blair,New York Jets,0,0,0
+DaRon Bland,Dallas Cowboys,0,0,0
 Reed Blankenship,Philadelphia Eagles,0,1,0
 Khari Blasingame,Chicago Bears,0,0,0
 Joey Blount,Arizona Cardinals,0,0,0
@@ -300,8 +355,7 @@ Jacob Bobenmoyer,Las Vegas Raiders,0,0,0
 Jake Bobo,Seattle Seahawks,0,0,0
 Corey Bojorquez,Cleveland Browns,0,0,0
 Isaiah Bolden,New England Patriots,0,1,0
-Nick Bolton,Kansas City Chiefs,0,0,0
-Nik Bonitto,Denver Broncos,0,0,0
+Nick Bolton,Kansas City Chiefs,0,1,0
 Austin Booker,Chicago Bears,0,0,0
 Thomas Booker,Philadelphia Eagles,0,0,0
 Andrew Booth,Dallas Cowboys,0,0,0
@@ -309,21 +363,23 @@ Dicaprio Bootle,Los Angeles Chargers,0,0,0
 Brock Bowers,Las Vegas Raiders,0,0,0
 Tyus Bowser,Miami Dolphins,0,0,0
 Khristian Boyd,New Orleans Saints,0,0,0
-Kris Boyd,Houston Texans,0,0,0
+Kris Boyd,Houston Texans,0,1,0
 Beau Brade,Baltimore Ravens,0,0,0
 Millard Bradford,New Orleans Saints,0,0,0
 Chris Braswell,Tampa Bay Buccaneers,0,0,0
 Christian Braswell,Jacksonville Jaguars,0,0,0
 Julius Brents,Indianapolis Colts,0,0,0
 C.J. Brewer,Tampa Bay Buccaneers,0,0,0
+Jowon Briggs,Cleveland Browns,0,0,0
 K.J. Britt,Tampa Bay Buccaneers,0,0,0
 British Brooks,Houston Texans,0,0,0
 Chris Brooks,Green Bay Packers,0,0,0
 Jalen Brooks,Dallas Cowboys,0,0,0
-Jordyn Brooks,Miami Dolphins,0,0,0
+Jordyn Brooks,Miami Dolphins,0,1,0
 Natrone Brooks,Atlanta Falcons,0,0,0
 Ben Brown,Las Vegas Raiders,0,0,0
 Derrick Brown,Carolina Panthers,0,0,0
+Dyami Brown,Washington Commanders,0,0,0
 Evan Brown,Arizona Cardinals,0,0,0
 Ji'Ayir Brown,San Francisco 49ers,0,0,0
 Mike Brown,Tennessee Titans,0,0,0
@@ -332,9 +388,9 @@ Pharaoh Brown,Seattle Seahawks,0,0,0
 Tre Brown,Seattle Seahawks,0,0,0
 Bobby Brown III,Los Angeles Rams,0,0,0
 Baron Browning,Arizona Cardinals,0,0,0
+Jack Browning,Tampa Bay Buccaneers,0,0,0
 Jarvis Brownlee Jr.,Tennessee Titans,0,0,0
 Taven Bryan,Indianapolis Colts,0,1,0
-Coby Bryant,Seattle Seahawks,0,0,0
 Harrison Bryant,Las Vegas Raiders,0,0,0
 Myles Bryant,Houston Texans,0,0,0
 DeForest Buckner,Indianapolis Colts,0,0,0
@@ -342,9 +398,7 @@ Javon Bullard,Green Bay Packers,0,0,0
 Jonathan Bullard,Minnesota Vikings,0,0,0
 Calen Bullock,Houston Texans,0,1,0
 Josh Butler,Dallas Cowboys,0,0,0
-Sean Murphy-Bunting,Arizona Cardinals,0,0,0
 Treylon Burks,Tennessee Titans,0,0,0
-Amari Burney,Las Vegas Raiders,0,0,0
 Artie Burns,Seattle Seahawks,0,0,0
 Michael Burton,Denver Broncos,0,0,0
 Devin Bush,Cleveland Browns,0,0,0
@@ -356,11 +410,10 @@ Camryn Bynum,Minnesota Vikings,0,1,0
 Grant Calcaterra,Philadelphia Eagles,0,0,0
 De'Vondre Campbell,San Francisco 49ers,0,0,0
 Tyson Campbell,Jacksonville Jaguars,0,0,0
+Alex Cappa,Cincinnati Bengals,0,0,0
 Jaylon Carlies,Indianapolis Colts,0,0,0
 Caelen Carson,Dallas Cowboys,0,0,0
 DeWayne Carter,Buffalo Bills,0,0,0
-Jalen Carter,Philadelphia Eagles,0,0,0
-Lorenzo Carter,Atlanta Falcons,0,0,0
 Michael Carter II,New York Jets,0,1,0
 Zachary Carter,Cincinnati Bengals,0,0,0
 Blake Cashman,Minnesota Vikings,0,0,0
@@ -372,10 +425,11 @@ Ja'Marr Chase,Cincinnati Bengals,0,0,0
 Elijah Chatman,New York Giants,0,1,0
 Claudin Cherelus,Carolina Panthers,0,0,0
 Cole Christiansen,Kansas City Chiefs,0,0,0
+Nick Chubb,Cleveland Browns,0,0,0
 Andre Cisco,Jacksonville Jaguars,0,0,0
 Damone Clark,Dallas Cowboys,0,0,0
 Kei'Trel Clark,Arizona Cardinals,0,0,0
-Kenny Clark,Green Bay Packers,0,1,0
+Kenny Clark,Green Bay Packers,0,2,0
 Ben Cleveland,Baltimore Ravens,0,0,0
 Jadeveon Clowney,Carolina Panthers,0,0,0
 Keondre Coburn,Tennessee Titans,0,0,0
@@ -387,32 +441,33 @@ L.J. Collier,Arizona Cardinals,0,1,0
 Keon Coleman,Buffalo Bills,0,0,0
 Maliek Collins,San Francisco 49ers,0,2,0
 Nico Collins,Houston Texans,0,0,0
-Zaven Collins,Arizona Cardinals,0,0,0
 Junior Colson,Los Angeles Chargers,0,0,0
 Chris Conley,San Francisco 49ers,0,0,0
-Chamarri Conner,Kansas City Chiefs,0,1,1
 Tanner Conner,Miami Dolphins,0,0,0
 Bryan Cook,Kansas City Chiefs,0,0,0
 Logan Cooke,Jacksonville Jaguars,0,0,0
+Malachi Corley,New York Jets,0,0,0
 Blake Corum,Los Angeles Rams,0,0,0
 Britain Covey,Philadelphia Eagles,0,0,0
 Byron Cowart,Chicago Bears,0,0,0
-Brenton Cox Jr.,Green Bay Packers,0,0,0
+Jacob Cowing,San Francisco 49ers,0,0,0
 Morgan Cox,Tennessee Titans,0,0,0
+River Cracraft,Miami Dolphins,0,0,0
 Maxx Crosby,Las Vegas Raiders,0,0,0
+Jaden Crumedy,Carolina Panthers,0,0,0
 Zach Cunningham,Denver Broncos,0,0,0
 McClendon Curtis,Seattle Seahawks,0,0,0
 DeeJay Dallas,Arizona Cardinals,0,0,0
 Drew Dalman,Atlanta Falcons,0,0,0
 Scott Daly,Chicago Bears,0,0,0
-Michael Danna,Kansas City Chiefs,0,0,0
+Jayden Daniels,Washington Commanders,0,0,0
 Ronald Darby,Jacksonville Jaguars,0,0,0
 Sam Darnold,Minnesota Vikings,0,0,0
 Christian Darrisaw,Minnesota Vikings,0,0,0
 Marcus Davenport,Detroit Lions,0,0,0
-DJ Davidson,New York Giants,0,1,0
+DJ Davidson,New York Giants,0,2,0
 Ashtyn Davis,New York Jets,0,0,0
-Carlton Davis,Detroit Lions,0,2,0
+Carl Davis,Washington Commanders,0,0,0
 Demario Davis,New Orleans Saints,0,0,0
 Gabe Davis,Jacksonville Jaguars,0,0,0
 Isaiah Davis,New York Jets,0,0,0
@@ -427,8 +482,7 @@ Tyler Davis,Green Bay Packers,0,0,0
 Akeem Davis-Gaither,Cincinnati Bengals,0,0,0
 Sheldon Day,Washington Commanders,0,0,0
 Divine Deablo,Las Vegas Raiders,0,0,0
-Jamel Dean,Tampa Bay Buccaneers,0,0,0
-Nakobe Dean,Philadelphia Eagles,0,1,0
+Nakobe Dean,Philadelphia Eagles,0,2,0
 Josiah Deguara,Jacksonville Jaguars,0,0,0
 Cooper DeJean,Philadelphia Eagles,0,1,0
 Tank Dell,Houston Texans,0,0,0
@@ -436,7 +490,7 @@ Grant Delpit,Cleveland Browns,0,1,0
 Trevor Denbow,Indianapolis Colts,0,0,0
 SirVocea Dennis,Tampa Bay Buccaneers,0,0,0
 Andrew DePaola,Minnesota Vikings,0,0,0
-Gervon Dexter Sr.,Chicago Bears,0,1,0
+Gervon Dexter Sr.,Chicago Bears,0,2,0
 Mohamoud Diabate,Cleveland Browns,0,0,0
 Cameron Dicker,Los Angeles Chargers,0,0,0
 Michael Dickson,Seattle Seahawks,0,0,0
@@ -451,13 +505,15 @@ Romeo Doubs,Green Bay Packers,0,0,0
 Josh Downs,Indianapolis Colts,0,0,0
 Storm Duck,Miami Dolphins,0,0,0
 Ashton Dulin,Indianapolis Colts,0,0,0
+Cory Durden,Los Angeles Rams,0,0,0
 Payne Durham,Tampa Bay Buccaneers,0,0,0
 Troy Dye,Los Angeles Chargers,0,0,0
 Arnold Ebiketie,Atlanta Falcons,0,0,0
-Brandin Echols,New York Jets,0,0,0
+Justin Eboigbe,Los Angeles Chargers,0,0,0
+Brandin Echols,New York Jets,0,1,0
 Terrell Edmunds,Jacksonville Jaguars,0,0,0
 Mike Edwards,Buffalo Bills,0,0,0
-Mario Edwards,Houston Texans,0,1,0
+Mario Edwards,Houston Texans,0,2,0
 Sam Eguavoen,New York Jets,0,0,0
 Tommy Eichenberg,Las Vegas Raiders,0,0,0
 Daniel Ekuale,New England Patriots,0,0,0
@@ -471,10 +527,11 @@ Evan Engram,Jacksonville Jaguars,0,0,0
 Marcus Epps,Las Vegas Raiders,0,0,0
 Zach Ertz,Washington Commanders,0,0,0
 Travis Etienne,Jacksonville Jaguars,0,0,0
-Akayleb Evans,Minnesota Vikings,0,0,0
+Akayleb Evans,Carolina Panthers,0,0,0
 Mike Evans,Tampa Bay Buccaneers,0,0,0
 Ka'imi Fairbairn,Houston Texans,0,0,0
 Noah Fant,Seattle Seahawks,0,0,0
+Princeton Fant,Dallas Cowboys,0,0,0
 Caleb Farley,Carolina Panthers,0,0,0
 Luke Farrell,Jacksonville Jaguars,0,0,0
 Neil Farrell,Miami Dolphins,0,0,0
@@ -486,6 +543,7 @@ Reid Ferguson,Buffalo Bills,0,0,0
 Clelin Ferrell,Washington Commanders,0,0,0
 Tony Fields II,Cleveland Browns,0,0,0
 AJ Finley,Los Angeles Chargers,0,0,0
+Tucker Fisk,Los Angeles Chargers,0,0,0
 Joe Flacco,Indianapolis Colts,0,0,0
 Demetrius Flannigan-Fowles,San Francisco 49ers,0,0,0
 Tre Flowers,Indianapolis Colts,0,0,0
@@ -494,7 +552,7 @@ Ryan Flournoy,Dallas Cowboys,0,0,0
 Dallis Flowers,Indianapolis Colts,0,0,0
 Zay Flowers,Baltimore Ravens,0,0,0
 Nick Folk,Tennessee Titans,0,0,0
-Emmanuel Forbes,Washington Commanders,0,0,0
+Emmanuel Forbes,Los Angeles Rams,0,0,0
 Dee Alford,Atlanta Falcons,0,0,0
 Jaylan Ford,New Orleans Saints,0,0,0
 Mike Ford,Cleveland Browns,0,0,0
@@ -509,20 +567,20 @@ Mitchell Fraboni,Denver Broncos,0,0,0
 Sam Franklin Jr.,Carolina Panthers,0,0,0
 John Franklin-Myers,Denver Broncos,0,0,0
 Feleipe Franks,Carolina Panthers,0,1,0
-Jordan Fuller,Carolina Panthers,0,0,0
 Kendall Fuller,Miami Dolphins,0,1,0
 Kristian Fulton,Los Angeles Chargers,0,0,0
 Amari Gainer,Las Vegas Raiders,0,0,0
 Greg Gaines,Tampa Bay Buccaneers,0,0,0
+Kenneth Gainwell,Philadelphia Eagles,0,0,0
 Neville Gallimore,Los Angeles Rams,0,0,0
+Elijah Garcia,New York Giants,0,0,0
 Sauce Gardner,New York Jets,0,0,0
-C.J. Gardner-Johnson,Philadelphia Eagles,0,0,0
-Rashan Gary,Green Bay Packers,0,0,0
 Ali Gaye,Tennessee Titans,0,0,0
 Joe Gaziano,Jacksonville Jaguars,0,0,0
 William Gholston,Tampa Bay Buccaneers,0,0,0
 Jack Gibbens,Tennessee Titans,0,0,0
 Jahmyr Gibbs,Detroit Lions,0,0,0
+Antonio Gibson,New England Patriots,0,0,0
 Luke Gifford,Tennessee Titans,0,0,0
 Joe Giles-Harris,New England Patriots,0,0,0
 Blake Gillikin,Arizona Cardinals,0,0,0
@@ -534,18 +592,20 @@ Stephon Gilmore,Minnesota Vikings,0,0,0
 Kevin Givens,San Francisco 49ers,0,0,0
 Davon Godchaux,New England Patriots,0,0,0
 Chris Godwin,Tampa Bay Buccaneers,0,0,0
+Luke Goedeke,Tampa Bay Buccaneers,0,0,0
 Dallas Goedert,Philadelphia Eagles,0,0,0
+Jared Goff,Detroit Lions,0,0,0
 Eddie Goldman,Atlanta Falcons,0,0,0
 Chauncey Golston,Dallas Cowboys,0,0,0
-Christian Gonzalez,New England Patriots,0,0,0
+Christian Gonzalez,New England Patriots,0,1,1
 Tyler Goodson,Indianapolis Colts,0,0,0
-C.J. Goodwin,Dallas Cowboys,0,0,0
 Kyler Gordon,Chicago Bears,0,2,0
 Adam Gotsis,Indianapolis Colts,0,0,0
+Jalen Graham,San Francisco 49ers,0,0,0
 Ta'Quon Graham,Atlanta Falcons,0,0,0
 Kylen Granson,Indianapolis Colts,0,0,0
 Richie Grant,Atlanta Falcons,0,0,0
-Art Green,New York Giants,0,0,0
+Cedric Gray,Tennessee Titans,0,0,0
 Mike Greene,Tampa Bay Buccaneers,0,0,0
 Shaq Thompson,Carolina Panthers,0,0,0
 Antonio Grier Jr.,Tampa Bay Buccaneers,0,0,0
@@ -560,7 +620,7 @@ Darren Hall,Arizona Cardinals,0,0,0
 Kemon Hall,Dallas Cowboys,0,0,0
 Logan Hall,Tampa Bay Buccaneers,0,1,0
 Mike Hall Jr.,Cleveland Browns,0,0,0
-C.J. Ham,Minnesota Vikings,0,0,0
+C.J. Ham,Minnesota Vikings,0,1,0
 Antonio Hamilton,Atlanta Falcons,0,0,0
 DaVon Hamilton,Jacksonville Jaguars,0,0,0
 Damar Hamlin,Buffalo Bills,0,1,0
@@ -568,6 +628,7 @@ Nick Hampton,Los Angeles Rams,0,0,0
 Johnathan Hankins,Seattle Seahawks,0,0,0
 Jake Hansen,Houston Texans,0,0,0
 Will Harris,New Orleans Saints,0,0,0
+Justin Hardee,Carolina Panthers,0,0,0
 Javon Hargrave,San Francisco 49ers,0,0,0
 Thomas Harper,Las Vegas Raiders,0,0,0
 Jaylen Harrell,Tennessee Titans,0,0,0
@@ -576,6 +637,7 @@ Demone Harris,Atlanta Falcons,0,0,0
 Jonathan Harris,Carolina Panthers,0,0,0
 Malik Harrison,Baltimore Ravens,0,0,0
 Zach Harrison,Atlanta Falcons,0,0,0
+Marvin Harrison Jr.,Arizona Cardinals,0,0,0
 Hassan Haskins,Los Angeles Chargers,0,0,0
 Hogan Hatten,Detroit Lions,0,0,0
 Jaylinn Hawkins,New England Patriots,0,1,0
@@ -588,6 +650,7 @@ Peyton Hendershot,Kansas City Chiefs,0,0,0
 Daiyan Henley,Los Angeles Chargers,0,0,0
 Thomas Hennessy,New York Jets,0,0,0
 KJ Henry,Cincinnati Bengals,0,0,0
+Justin Herbert,Los Angeles Chargers,0,0,0
 Khalil Herbert,Chicago Bears,0,0,0
 Malik Herring,Kansas City Chiefs,0,0,0
 Cameron Heyward,Pittsburgh Steelers,0,0,0
@@ -597,6 +660,8 @@ Elijah Hicks,Chicago Bears,0,2,0
 Faion Hicks,Seattle Seahawks,0,0,0
 Jaden Hicks,Kansas City Chiefs,0,0,0
 Jordan Hicks,Cleveland Browns,0,0,0
+Elijah Higgins,Arizona Cardinals,0,0,0
+Tee Higgins,Cincinnati Bengals,0,0,0
 Alex Highsmith,Pittsburgh Steelers,0,0,0
 B.J. Hill,Cincinnati Bengals,0,0,0
 Daxton Hill,Cincinnati Bengals,0,0,0
@@ -621,7 +686,7 @@ DeAndre Hopkins,Kansas City Chiefs,0,0,0
 Ty'Ron Hopper,Green Bay Packers,0,0,0
 Jaycee Horn,Carolina Panthers,0,0,0
 Dylan Horton,Houston Texans,0,0,0
-James Houston,Detroit Lions,0,0,0
+James Houston,Cleveland Browns,0,0,0
 Jordan Howden,New Orleans Saints,0,0,0
 Khaleke Hudson,Cleveland Browns,0,0,0
 Tanner Hudson,Cincinnati Bengals,0,0,0
@@ -656,12 +721,14 @@ Lamar Jackson,Atlanta Falcons,0,0,0
 McKinnley Jackson,Cincinnati Bengals,0,0,0
 Theo Jackson,Minnesota Vikings,0,0,0
 Curtis Jacobs,New England Patriots,0,0,0
+Demontrey Jacobs,New England Patriots,0,0,0
 Derwin James,Los Angeles Chargers,0,0,0
 Grady Jarrett,Atlanta Falcons,0,0,0
 Javontae Jean-Baptiste,Washington Commanders,0,0,0
 Shemar Jean-Charles,New Orleans Saints,0,0,0
 Jordan Jefferson,Jacksonville Jaguars,0,0,0
 Quinton Jefferson,Buffalo Bills,0,0,0
+Tony Jefferson,Los Angeles Chargers,0,0,0
 Elgton Jenkins,Green Bay Packers,0,0,0
 John Jenkins,Las Vegas Raiders,0,0,0
 Kris Jenkins,Cincinnati Bengals,0,0,0
@@ -695,7 +762,7 @@ Aaron Jones,Minnesota Vikings,0,0,0
 Benito Jones,Miami Dolphins,0,0,0
 Broderick Jones,Pittsburgh Steelers,0,0,0
 Cam Jones,Kansas City Chiefs,0,0,0
-Daniel Jones,New York Giants,0,0,0
+Daniel Jones,Minnesota Vikings,0,0,0
 DaQuan Jones,Buffalo Bills,0,0,0
 D.J. Jones,Denver Broncos,0,0,0
 Ernest Jones,Seattle Seahawks,0,0,0
@@ -706,10 +773,11 @@ Justin Jones,Arizona Cardinals,0,1,0
 Vi Jones,Tampa Bay Buccaneers,0,0,0
 Marcus Jones,New England Patriots,0,1,0
 Naquan Jones,Arizona Cardinals,0,0,0
+Tim Jones,Jacksonville Jaguars,0,0,0
 Travis Jones,Baltimore Ravens,0,0,0
 Andre Jones Jr.,Washington Commanders,0,0,0
 Cameron Jordan,New Orleans Saints,0,0,0
-Mike Jordan,New England Patriots,0,0,0
+Mike Jordan,Green Bay Packers,0,0,0
 Brandon Joseph,Detroit Lions,0,0,0
 Kelvin Joseph,Indianapolis Colts,0,0,0
 Kerby Joseph,Detroit Lions,0,0,0
@@ -723,6 +791,7 @@ George Karlaftis,Kansas City Chiefs,0,0,0
 Damontae Kazee,Pittsburgh Steelers,0,0,0
 Travis Kelce,Kansas City Chiefs,0,0,0
 Devon Key,Denver Broncos,0,0,0
+Ramel Keyton,Las Vegas Raiders,0,0,0
 Ko Kieft,Tampa Bay Buccaneers,0,0,0
 Miles Killebrew,Pittsburgh Steelers,0,0,0
 Kevin King,Atlanta Falcons,0,0,0
@@ -747,7 +816,6 @@ Kamari Lassiter,Houston Texans,0,0,0
 Marshon Lattimore,New Orleans Saints,0,0,0
 Dylan Laube,Las Vegas Raiders,0,0,0
 Jonah Laulu,Las Vegas Raiders,0,0,0
-Dexter Lawrence,New York Giants,0,0,0
 Trevor Lawrence,Jacksonville Jaguars,0,0,0
 Allen Lazard,New York Jets,0,0,0
 DeMarvin Leal,Pittsburgh Steelers,0,0,0
@@ -757,8 +825,6 @@ Deane Leonard,Los Angeles Chargers,0,0,0
 Eku Leota,Carolina Panthers,0,0,0
 Cam Lewis,Buffalo Bills,0,0,0
 Damien Lewis,Carolina Panthers,0,0,0
-Jourdan Lewis,Dallas Cowboys,0,1,0
-Tyquan Lewis,Indianapolis Colts,0,0,0
 Isaiah Likely,Baltimore Ravens,0,0,0
 Beaux Limmer,Los Angeles Rams,0,0,0
 Chris Lindstrom,Atlanta Falcons,0,0,0
@@ -766,7 +832,7 @@ Marist Liufau,Dallas Cowboys,0,1,0
 P.J. Locke,Denver Broncos,0,0,0
 Zion Logue,Atlanta Falcons,0,0,0
 Drake London,Atlanta Falcons,0,0,0
-David Long Jr.,Detroit Lions,0,0,0
+David Long Jr.,Detroit Lions,0,1,0
 Hunter Long,Los Angeles Rams,0,0,0
 Isaiahh Loudermilk,Pittsburgh Steelers,0,0,0
 Dean Lowry,Pittsburgh Steelers,0,0,0
@@ -778,6 +844,7 @@ Jaylen Mahoney,San Francisco 49ers,0,0,0
 Jordan Mailata,Philadelphia Eagles,0,0,0
 DeAngelo Malone,Atlanta Falcons,0,0,0
 Chris Manhertz,New York Giants,0,0,0
+Brodric Martin,Detroit Lions,0,0,0
 Jacob Martin,Chicago Bears,0,0,0
 Luke Masterson,Las Vegas Raiders,0,0,0
 Tyler Matakevich,Pittsburgh Steelers,0,0,0
@@ -790,8 +857,9 @@ Alexander Mattison,Las Vegas Raiders,0,0,0
 Kana'i Mauga,Las Vegas Raiders,0,0,0
 Arthur Maulet,Baltimore Ravens,0,0,0
 Drake Maye,New England Patriots,0,0,0
-Marcus Maye,Miami Dolphins,0,0,0
+Marcus Maye,Los Angeles Chargers,0,0,0
 Tyreik McAllister,Las Vegas Raiders,0,0,0
+Luke McCaffrey,Washington Commanders,0,0,0
 Tanner McCalister,Denver Broncos,0,0,0
 Nick McCloud,New York Giants,0,0,0
 Jaylen McCollough,Los Angeles Rams,0,0,0
@@ -801,9 +869,8 @@ Ladd McConkey,Los Angeles Chargers,0,0,0
 Mason McCormick,Pittsburgh Steelers,0,0,0
 Marcelino McCrary-Ball,New York Jets,0,0,0
 Roger McCreary,Tennessee Titans,0,0,0
-Isaiah McDuffie,Green Bay Packers,0,0,0
 Trent McDuffie,Kansas City Chiefs,0,0,0
-T.Y. McGill,San Francisco 49ers,0,0,0
+T.Y. McGill,Cleveland Browns,0,0,0
 Braiden McGregor,New York Jets,0,0,0
 Cameron McGrone,Indianapolis Colts,0,0,0
 Kenny McIntosh,Seattle Seahawks,0,0,0
@@ -813,8 +880,8 @@ Kool-Aid McKinstry,New Orleans Saints,0,0,0
 Jaleel McLaughlin,Denver Broncos,0,0,0
 Terry McLaurin,Washington Commanders,0,0,0
 Rodney McLeod Jr.,Cleveland Browns,0,1,1
+Jalen McMillan,Tampa Bay Buccaneers,0,0,0
 Raekwon McMillan,New England Patriots,0,0,0
-Alim McNeill,Detroit Lions,0,0,0
 Jeremy McNichols,Washington Commanders,0,0,0
 Quinn Meinerz,Denver Broncos,0,0,0
 Patrick Mekari,Baltimore Ravens,0,0,0
@@ -822,6 +889,7 @@ Bo Melton,Green Bay Packers,0,1,0
 Kaevon Merriweather,Detroit Lions,0,0,0
 John Metchie III,Houston Texans,0,0,0
 Jakobi Meyers,Las Vegas Raiders,0,0,0
+Matt Milano,Buffalo Bills,0,0,0
 Dante Miller,New York Giants,0,0,0
 Kolton Miller,Las Vegas Raiders,0,0,0
 Ryan Miller,Tampa Bay Buccaneers,0,0,0
@@ -829,11 +897,12 @@ Scott Miller,Pittsburgh Steelers,0,0,0
 Von Miller,Buffalo Bills,0,0,0
 Jalen Mills,New York Jets,0,0,0
 Jordan Mims,New Orleans Saints,0,0,0
+Marvin Mims Jr.,Denver Broncos,0,0,0
 Jonathan Mingo,Carolina Panthers,0,0,0
 Cameron Mitchell,Cleveland Browns,0,0,0
 Quinyon Mitchell,Philadelphia Eagles,0,0,0
 Joe Mixon,Houston Texans,0,0,0
-Tre'von Moehrig,Las Vegas Raiders,0,0,0
+Tre'von Moehrig,Las Vegas Raiders,0,1,0
 Elijah Molden,Los Angeles Chargers,0,1,0
 Jarius Monroe,New York Jets,0,0,0
 Jeremiah Moon,Pittsburgh Steelers,0,0,0
@@ -842,6 +911,7 @@ DJ Moore,Chicago Bears,0,0,0
 Elijah Moore,Cleveland Browns,0,0,0
 Kenny Moore II,Indianapolis Colts,0,1,1
 Tarvarius Moore,Chicago Bears,0,0,0
+Fabian Moreau,Minnesota Vikings,0,0,0
 Mike Morris,Seattle Seahawks,0,0,0
 Quintin Morris,Buffalo Bills,0,0,0
 Wanya Morris,Kansas City Chiefs,0,0,0
@@ -854,26 +924,25 @@ Al-Quadin Muhammad,Detroit Lions,0,0,0
 Israel Mukuamu,Dallas Cowboys,0,0,0
 Chad Muma,Jacksonville Jaguars,0,0,0
 Caleb Murphy,Los Angeles Chargers,0,0,0
+Gabriel Murphy,Minnesota Vikings,0,0,0
 Myles Murphy,Cincinnati Bengals,0,0,0
 Byron Murphy II,Seattle Seahawks,0,0,0
-"Kenneth Murray, Jr.",Tennessee Titans,0,0,0
 Eric Murray,Houston Texans,0,0,0
 Tanner Muse,Jacksonville Jaguars,0,0,0
 Malik Mustapha,San Francisco 49ers,0,0,0
+Jason Myers,Seattle Seahawks,0,0,0
 Josh Myers,Green Bay Packers,0,0,0
 Puka Nacua,Los Angeles Rams,0,0,0
 Siran Neal,Miami Dolphins,0,0,0
 Nik Needham,Miami Dolphins,0,0,0
-Anthony Nelson,Tampa Bay Buccaneers,0,1,0
 Greg Newsome II,Cleveland Browns,0,0,0
-Jer'Zhan Newton,Washington Commanders,0,1,0
 Josh Newton,Cincinnati Bengals,0,0,0
 Yannick Ngakoue,Baltimore Ravens,0,0,0
 Bilal Nichols,Arizona Cardinals,0,0,0
 Ben Niemann,Detroit Lions,0,0,0
 Nick Niemann,Los Angeles Chargers,0,0,0
 David Njoku,Cleveland Browns,0,0,0
-Maema Njongmeta,Cincinnati Bengals,0,0,0
+Maema Njongmeta,Cincinnati Bengals,0,1,0
 Derrick Nnadi,Kansas City Chiefs,0,0,0
 Trevor Nowaske,Detroit Lions,0,0,0
 Rakeem Nunez-Roches,New York Giants,0,0,0
@@ -904,6 +973,7 @@ Bryce Oliver,Tennessee Titans,0,0,0
 Isaiah Oliver,New York Jets,0,0,0
 Josh Oliver,Minnesota Vikings,0,0,0
 Foye Oluokun,Jacksonville Jaguars,0,0,0
+Charles Omenihu,Kansas City Chiefs,0,0,0
 David Onyemata,Atlanta Falcons,0,0,0
 Ruke Orhorhoro,Atlanta Falcons,0,0,0
 Anfernee Orji,New Orleans Saints,0,0,0
@@ -912,15 +982,13 @@ Matthew Orzech,Green Bay Packers,0,0,0
 Joseph Ossai,Cincinnati Bengals,0,0,0
 Esezi Otomewo,Jacksonville Jaguars,0,0,0
 Cade Otton,Tampa Bay Buccaneers,0,0,0
-Jonathan Owens,Chicago Bears,0,0,0
-Tyler Owens,Washington Commanders,0,0,0
 Ivan Pace Jr.,Minnesota Vikings,0,1,1
 Dylan Parham,Las Vegas Raiders,0,0,0
+Zach Pascal,Arizona Cardinals,0,0,0
 Joshua Paschal,Detroit Lions,0,0,0
 Daron Payne,Washington Commanders,0,0,0
 Rico Payton,New Orleans Saints,0,0,0
 Kyle Peko,Detroit Lions,0,0,0
-Jabrill Peppers,New England Patriots,0,0,0
 Samaje Perine,Kansas City Chiefs,0,0,0
 Denzel Perryman,Los Angeles Chargers,0,0,0
 Dell Pettus,New England Patriots,0,0,0
@@ -928,7 +996,6 @@ Jeremiah Pharms,New England Patriots,0,0,0
 Del'Shawn Phillips,Houston Texans,0,0,0
 Jaelan Phillips,Miami Dolphins,0,0,0
 Jordan Phillips,Buffalo Bills,0,0,0
-Clark Phillips III,Atlanta Falcons,0,0,0
 George Pickens,Pittsburgh Steelers,0,0,0
 Zacch Pickens,Chicago Bears,0,0,0
 Alec Pierce,Indianapolis Colts,0,0,0
@@ -939,6 +1006,7 @@ Bradley Pinion,Atlanta Falcons,0,0,0
 Jason Pinnock,New York Giants,0,0,0
 Anthony Pittman,Jacksonville Jaguars,0,0,0
 Michael Pittman,Indianapolis Colts,0,0,0
+Ethan Pocic,Cleveland Browns,0,0,0
 Isaiah Pola-Mao,Las Vegas Raiders,0,0,0
 Joey Porter Jr.,Pittsburgh Steelers,0,0,0
 Jackson Powers-Johnson,Las Vegas Raiders,0,0,0
@@ -956,9 +1024,9 @@ Shaquille Quarterman,Carolina Panthers,0,0,0
 Dillon Radunz,Tennessee Titans,0,0,0
 Bernhard Raimann,Indianapolis Colts,0,0,0
 Ennis Rakestraw Jr.,Detroit Lions,0,0,0
+Jose Ramirez,Tampa Bay Buccaneers,0,0,0
 Jalen Ramsey,Miami Dolphins,0,0,0
 Sheldon Rankins,Cincinnati Bengals,0,0,0
-Taylor Rapp,Buffalo Bills,0,0,0
 LaBryan Ray,Carolina Panthers,0,0,0
 D.J. Reader,Detroit Lions,0,0,0
 Haason Reddick,New York Jets,0,0,0
@@ -971,34 +1039,37 @@ Otis Reese,Tennessee Titans,0,0,0
 Justin Reid,Kansas City Chiefs,0,0,0
 Winston Reid,Cleveland Browns,0,1,0
 Jon Rhattigan,Carolina Panthers,0,0,0
+Luke Rhodes,Indianapolis Colts,0,0,0
 Sean Rhyan,Green Bay Packers,0,0,0
 Patrick Ricard,Baltimore Ravens,0,0,0
+Asim Richards,Dallas Cowboys,0,0,0
 Anthony Richardson,Indianapolis Colts,0,0,0
 Decamerion Richardson,Las Vegas Raiders,0,0,0
 Demani Richardson,Carolina Panthers,0,0,0
-Bo Richter,Minnesota Vikings,0,0,0
+Bo Richter,Minnesota Vikings,0,1,0
 Eli Ricks,Philadelphia Eagles,0,0,0
 John Ridgeway,New Orleans Saints,0,0,0
 Calvin Ridley,Tennessee Titans,0,0,0
 Duke Riley,Miami Dolphins,0,0,0
 Jordon Riley,New York Giants,0,0,0
-Kelee Ringo,Philadelphia Eagles,0,1,0
 Ronnie Rivers,Los Angeles Rams,0,0,0
-Malcolm Roach,Denver Broncos,0,0,0
+Malcolm Roach,Denver Broncos,0,1,0
 Roy Robertson-Harris,Jacksonville Jaguars,0,0,0
 Bijan Robinson,Atlanta Falcons,0,0,0
 Cam Robinson,Jacksonville Jaguars,0,0,0
 Chop Robinson,Miami Dolphins,0,0,0
 Curtis Robinson,San Francisco 49ers,0,0,0
+Darius Robinson,Arizona Cardinals,0,0,0
 Demarcus Robinson,Los Angeles Rams,0,0,0
 Dominique Robinson,Chicago Bears,0,0,0
 Jammie Robinson,Carolina Panthers,0,0,0
 Janarius Robinson,Las Vegas Raiders,0,0,0
 Mark Robinson,Pittsburgh Steelers,0,0,0
 Tavius Robinson,Baltimore Ravens,0,0,0
-Robert Rochell,Green Bay Packers,0,0,0
-Isaiah Rodgers,Philadelphia Eagles,0,0,0
+Brian Robinson,Washington Commanders,0,0,0
+Robert Rochell,Green Bay Packers,0,1,0
 Malcolm Rodriguez,Detroit Lions,0,1,0
+Casey Rogers,New York Giants,0,0,0
 Christian Roland-Wallace,Kansas City Chiefs,0,0,0
 Roger Rosengarten,Baltimore Ravens,0,0,0
 D'Angelo Ross,Houston Texans,0,0,0
@@ -1008,42 +1079,43 @@ Christian Rozeboom,Los Angeles Rams,0,0,0
 Jeremy Ruckert,New York Jets,0,0,0
 Brady Russell,Seattle Seahawks,0,0,0
 J.J. Russell,Tampa Bay Buccaneers,0,1,0
-Mike Sainristil,Washington Commanders,0,0,0
+Andre' Sam,Philadelphia Eagles,0,0,0
 Curtis Samuel,Buffalo Bills,0,0,0
 Deebo Samuel Sr.,San Francisco 49ers,0,0,0
 Asante Samuel Jr.,Los Angeles Chargers,0,0,0
 Jack Sanborn,Chicago Bears,0,0,0
 Miles Sanders,Carolina Panthers,0,0,0
+Jason Sanders,Miami Dolphins,0,0,0
 Eric Saubert,San Francisco 49ers,0,0,0
 Khalen Saunders,New Orleans Saints,0,0,0
 Darnell Savage,Jacksonville Jaguars,0,0,0
 Brenden Schooler,New England Patriots,0,0,0
+Luke Schoonmaker,Dallas Cowboys,0,0,0
 Nick Scott,Carolina Panthers,0,0,0
 Juice Scruggs,Houston Texans,0,0,0
 Trey Sermon,Indianapolis Colts,0,0,0
 Tim Settle,Houston Texans,0,0,0
 Isaac Seumalo,Pittsburgh Steelers,0,0,0
+Nephi Sewell,New Orleans Saints,0,0,0
 Kevon Seymour,Washington Commanders,0,0,0
 Rashid Shaheed,New Orleans Saints,0,0,0
 Kendall Sheffield,New York Jets,0,0,0
 Duke Shelley,New York Giants,0,0,0
-Laviska Shenault Jr.,Seattle Seahawks,0,0,0
+Laviska Shenault Jr.,Los Angeles Chargers,0,0,0
 John Shenker,Las Vegas Raiders,0,0,0
 Nathan Shepherd,New Orleans Saints,0,0,0
 Trent Sherfield,Minnesota Vikings,0,0,0
 Jamien Sherwood,New York Jets,0,0,0
 Will Shipley,Philadelphia Eagles,0,0,0
 Trent Sieg,Dallas Cowboys,0,0,0
-Zach Sieler,Miami Dolphins,0,1,0
 Nesta Jade Silvera,Las Vegas Raiders,0,0,0
-Isaiah Simmons,New York Giants,0,0,0
 Justin Simmons,Atlanta Falcons,0,0,0
 Trenton Simpson,Baltimore Ravens,0,1,0
 Devin Singletary,New York Giants,0,0,0
 Alex Singleton,Denver Broncos,0,0,0
 Ben Sinnott,Washington Commanders,0,0,0
 JL Skinner,Denver Broncos,0,1,0
-Ben Skowronek,Pittsburgh Steelers,0,1,0
+Ben Skowronek,Pittsburgh Steelers,0,2,0
 Tedarrell Slaton,Green Bay Packers,0,0,0
 Stone Smartt,Los Angeles Chargers,0,0,0
 Cam Smith,Miami Dolphins,0,0,0
@@ -1066,10 +1138,11 @@ Za'Darius Smith,Cleveland Browns,0,0,0
 Chris Smith II,Las Vegas Raiders,0,0,0
 Jaxon Smith-Njigba,Seattle Seahawks,0,0,0
 JuJu Smith-Schuster,Kansas City Chiefs,0,0,0
-Chau Smith-Wade,Carolina Panthers,0,0,0
 James Smith-Williams,Atlanta Falcons,0,0,0
+Durham Smythe,Miami Dolphins,0,0,0
 L'Jarius Sneed,Tennessee Titans,0,0,0
 Charles Snowden,Las Vegas Raiders,0,0,0
+Brevyn Spann-Ford,Dallas Cowboys,0,0,0
 Tyjae Spears,Tennessee Titans,0,0,0
 Baylon Spector,Buffalo Bills,0,1,0
 E.J. Speed,Indianapolis Colts,0,0,0
@@ -1077,8 +1150,8 @@ Omar Speights,Los Angeles Rams,0,0,0
 Robert Spillane,Las Vegas Raiders,0,0,0
 Isaiah Stalbird,New Orleans Saints,0,0,0
 Amon-Ra St. Brown,Detroit Lions,0,0,0
+Carson Steele,Kansas City Chiefs,0,0,0
 Brandon Stephens,Baltimore Ravens,0,0,0
-Tyrique Stevenson,Chicago Bears,0,0,0
 M.J. Stewart,Houston Texans,0,1,0
 Qwan'tez Stiggers,New York Jets,0,0,0
 Tarheeb Still,Los Angeles Chargers,0,0,0
@@ -1088,6 +1161,7 @@ Eric Stokes,Green Bay Packers,0,0,0
 Jack Stoll,Miami Dolphins,0,0,0
 Geno Stone,Cincinnati Bengals,0,1,0
 Cade Stover,Houston Texans,0,0,0
+Brenton Strange,Jacksonville Jaguars,0,0,0
 Kentavius Street,Atlanta Falcons,0,0,0
 Justin Strnad,Denver Broncos,0,0,0
 Greg Stroman,New York Giants,0,0,0
@@ -1106,7 +1180,6 @@ Tua Tagovailoa,Miami Dolphins,0,0,0
 Taki Taimani,Minnesota Vikings,0,0,0
 Sione Takitaki,New England Patriots,0,0,0
 T.J. Tampa,Baltimore Ravens,0,0,0
-Teair Tart,Los Angeles Chargers,0,1,0
 Jahlani Tavai,New England Patriots,0,0,0
 Ja'Sir Taylor,Los Angeles Chargers,0,1,0
 Jawaan Taylor,Kansas City Chiefs,0,0,0
@@ -1119,6 +1192,7 @@ Dadrion Taylor-Demerson,Arizona Cardinals,0,0,0
 A.J. Terrell,Atlanta Falcons,0,0,0
 Kayvon Thibodeaux,New York Giants,0,0,0
 Adam Thielen,Carolina Panthers,0,0,0
+Cameron Thomas,Cleveland Browns,0,0,0
 Daniel Thomas,Jacksonville Jaguars,0,1,0
 Drake Thomas,Seattle Seahawks,0,0,0
 Isaiah Thomas,Cincinnati Bengals,0,1,0
@@ -1144,6 +1218,7 @@ Drue Tranquill,Kansas City Chiefs,0,1,0
 Brycen Tremayne,Washington Commanders,0,0,0
 Cory Trice Jr.,Pittsburgh Steelers,0,0,0
 Jeremiah Trotter Jr.,Philadelphia Eagles,0,0,0
+Justin Tucker,Baltimore Ravens,0,0,0
 Sean Tucker,Tampa Bay Buccaneers,0,0,0
 Tre Tucker,Las Vegas Raiders,0,0,0
 Jay Tufele,Cincinnati Bengals,0,0,0
@@ -1157,20 +1232,22 @@ Joshua Uche,Kansas City Chiefs,0,0,0
 Isaac Ukwu,Detroit Lions,0,0,0
 Brent Urban,Baltimore Ravens,0,0,0
 Eyioma Uwazurike,Denver Broncos,0,0,0
+C.J. Uzomah,Philadelphia Eagles,0,0,0
 Marquez Valdes-Scantling,Buffalo Bills,0,0,0
 Carrington Valentine,Green Bay Packers,0,0,0
 Ryan Van Demark,Buffalo Bills,0,0,0
-Lukas Van Ness,Green Bay Packers,0,1,0
 Ben VanSumeren,Philadelphia Eagles,0,0,0
 Vita Vea,Tampa Bay Buccaneers,0,0,0
+Devaughn Vele,Denver Broncos,0,0,0
 Kendal Vickers,New Orleans Saints,0,0,0
 Nick Vigil,Dallas Cowboys,0,0,0
 Kindle Vildor,Detroit Lions,0,0,0
+Jalen Virgil,Buffalo Bills,0,1,0
 Jaylen Waddle,Miami Dolphins,0,0,0
 Anthony Walker,Miami Dolphins,0,0,0
 DeMarcus Walker,Chicago Bears,0,0,0
 Devontez Walker,Baltimore Ravens,0,0,0
-Mykal Walker,Washington Commanders,0,0,0
+Mykal Walker,Washington Commanders,0,1,0
 Quay Walker,Green Bay Packers,0,0,0
 Kenneth Walker III,Seattle Seahawks,0,0,0
 Josh Wallace,Los Angeles Rams,0,0,0
@@ -1182,8 +1259,8 @@ Jihad Ward,Minnesota Vikings,0,1,0
 Jimmie Ward,Houston Texans,0,0,0
 Jonathan Ward,Pittsburgh Steelers,0,0,0
 Ar'Darius Washington,Baltimore Ravens,0,0,0
-Broderick Washington,Baltimore Ravens,0,0,0
 Malik Washington,Miami Dolphins,0,0,0
+Parker Washington,Jacksonville Jaguars,0,0,0
 Carlos Watkins,Dallas Cowboys,0,0,0
 Christian Watson,Green Bay Packers,0,0,0
 Jaylen Watson,Kansas City Chiefs,0,0,0
@@ -1208,14 +1285,14 @@ Dontayvion Wicks,Green Bay Packers,0,0,0
 Mike Williams,New York Jets,0,0,0
 Christian Wilkins,Las Vegas Raiders,0,0,0
 Quinnen Williams,New York Jets,0,0,0
-Donovan Wilson,Dallas Cowboys,0,1,0
 Avery Williams,Atlanta Falcons,0,0,0
 Chris Williams,Chicago Bears,0,0,0
 Connor Williams,Seattle Seahawks,0,0,0
 Darious Williams,Los Angeles Rams,0,0,0
-Dee Williams,Seattle Seahawks,0,0,0
+Dee Williams,New York Giants,0,0,0
 DeShawn Williams,Carolina Panthers,0,0,0
 Garrett Williams,Arizona Cardinals,0,0,0
+Jamaal Williams,New Orleans Saints,0,0,0
 James Williams,Tennessee Titans,0,0,0
 Jameson Williams,Detroit Lions,0,0,0
 Jonah Williams,Arizona Cardinals,0,0,0
@@ -1223,7 +1300,6 @@ Joshua Williams,Kansas City Chiefs,0,0,0
 Kyren Williams,Los Angeles Rams,0,0,0
 Leonard Williams,Seattle Seahawks,0,0,0
 Marcus Williams,Baltimore Ravens,0,1,0
-Milton Williams,Philadelphia Eagles,0,1,0
 Rod Williams,Pittsburgh Steelers,0,0,0
 Brayden Willis,San Francisco 49ers,0,0,0
 Jedrick Wills,Cleveland Browns,0,0,0
@@ -1231,7 +1307,8 @@ Cedrick Wilson Jr.,New Orleans Saints,0,0,0
 Garrett Wilson,New York Jets,0,0,0
 Mack Wilson,Arizona Cardinals,0,1,0
 Marco Wilson,Cincinnati Bengals,0,0,0
-Payton Wilson,Pittsburgh Steelers,0,0,0
+Michael Wilson,Arizona Cardinals,0,1,0
+Payton Wilson,Pittsburgh Steelers,0,2,1
 James Winchester,Kansas City Chiefs,0,0,0
 Jacoby Windmon,Carolina Panthers,0,0,0
 Antoine Winfield Jr.,Tampa Bay Buccaneers,0,1,1
@@ -1245,17 +1322,18 @@ Mitch Wishnowsky,San Francisco 49ers,0,0,0
 Ahkello Witherspoon,Los Angeles Rams,0,0,0
 Charlie Woerner,Atlanta Falcons,0,0,0
 Samuel Womack,Indianapolis Colts,0,0,0
+Julius Wood,Tennessee Titans,0,0,0
 Zach Wood,New Orleans Saints,0,0,0
 Colby Wooden,Green Bay Packers,0,0,0
 Charles Woods,Los Angeles Rams,0,0,0
+Mike Woods,Cleveland Browns,0,0,0
 Xavier Woods,Carolina Panthers,0,0,0
-Riq Woolen,Seattle Seahawks,0,0,0
 Chandler Wooten,Carolina Panthers,0,0,0
 Daryl Worley,Tennessee Titans,0,0,0
 Chris Wormley,Baltimore Ravens,0,0,0
 Xavier Worthy,Kansas City Chiefs,0,0,0
 Alex Wright,Cleveland Browns,0,0,0
-Matthew Wright,San Francisco 49ers,0,0,0
+Matthew Wright,Kansas City Chiefs,0,0,0
 Devonte Wyatt,Green Bay Packers,0,2,0
 Oshane Ximines,New England Patriots,0,0,0
 Colson Yankoff,Washington Commanders,0,0,0
