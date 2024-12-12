@@ -1,5 +1,6 @@
 import data
 import analysis
+import gui
 
 
 CURRENT_WEEK = 10
@@ -12,5 +13,4 @@ CURRENT_WEEK = 10
 
 a = analysis.Analysis()
 
-print(a.team_order_stat(a.offensive_data['passing'], "Pass Yds"))
-
+g = gui.GUI()
